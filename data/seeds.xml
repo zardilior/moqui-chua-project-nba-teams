@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="seed-initial">
+    <!-- security seeds -->
+    <moqui.security.ArtifactGroup artifactGroupId="TUT_APP"
+            description="Tutorial App (via root screen)"/>
+    <moqui.security.ArtifactGroupMember artifactGroupId="TUT_APP" 
+            artifactName="component://donation-form/screen/donation-form.xml"
+            artifactTypeEnumId="AT_XML_SCREEN" inheritAuthz="Y"/>
+    <moqui.security.ArtifactAuthz artifactAuthzId="TUT_ALL" 
+            userGroupId="ALL_USERS" artifactGroupId="TUT_APP"
+            authzTypeEnumId="AUTHZT_ALWAYS" authzActionEnumId="AUTHZA_ALL"/>
+
+
+    <!-- REQUIRED ENUMS -->
+    <moqui.basic.Enumeration enumId="NBA_TEAM" enumTypeId="PartyType" description="Basquetaball team from the NBA"/>
+    <moqui.basic.Enumeration enumId="CHUA_PROJECT_USER" enumTypeId="PartyType" description="Basquetaball team from the NBA"/>
+
+    <moqui.basic.Enumeration enumId="NBA_TEAM_LOGO" enumTypeId="PartyContentType" description="The logo of a Basquetaball team from the NBA"/>
+
+    <moqui.basic.Enumeration enumId="NBA_DIVISION" enumTypeId="PartyClassificationType" description="The division to which a Basquetaball team from the NBA belongs"/>
+    <moqui.basic.Enumeration enumId="NBA_CONFERENCE" enumTypeId="PartyClassificationType" description="The conference to which a Basquetaball team from the NBA belongs"/>
+
+    <moqui.basic.Enumeration enumId="VOTED_FOR" enumTypeId="PartyClassificationType" description="The conference to which a Basquetaball team from the NBA belongs"/>
+
+    <!-- REQUIRED TYPES -->
+    <!-- conference -->
+    <mantle.party.PartyClassification partyClassificationId="Western conference" classificationTypeEnumId="NBA_CONFERENCE" />
+    <mantle.party.PartyClassification partyClassificationId="Eastern conference" classificationTypeEnumId="NBA_CONFERENCE" />
+    <!-- division -->
+    <mantle.party.PartyClassification partyClassificationId="1st Division" classificationTypeEnumId="NBA_DIVISION" />
+    <mantle.party.PartyClassification partyClassificationId="2nd Division" classificationTypeEnumId="NBA_DIVISION" />
+    <mantle.party.PartyClassification partyClassificationId="3rd Division" classificationTypeEnumId="NBA_DIVISION" />
+
+    <mantle.party.Party partyId="ADMIN" partyTypeEnumId="CHUA_PROJECT_USER" />
+
+    <!-- FIRST DEMO TEAM -->
+
+    <!-- team -->
+    <mantle.party.Party partyId="Lakers" partyTypeEnumId="NBA_TEAM" />
+    <mantle.party.Organization partyId="Lakers" organizationName="Lakers" officeSiteName="https://lakersnation.com" />
+    <!-- logo -->
+    <mantle.party.PartyContent partyId="Lakers" partyContentId="LAKERS_LOGO" partyContentTypeEnumId="NBA_TEAM_LOGO"
+      contentLocation="https://www.nba.com/lakers/sites/lakers/files/lakers_logo_500.png"/>
+    <!-- conference -->
+    <mantle.party.PartyClassificationAppl partyClassificationId="Western conference" partyId="Lakers" />
+    <!-- division -->
+    <mantle.party.PartyClassificationAppl partyClassificationId="1st Division" partyId="Lakers" />
+    <!-- votes -->
+    <mantle.party.PartyRelationship partyRelationshipId="1" fromPartyId="ADMIN" toPartyId="Lakers" relationshipTypeEnumId="VOTED_FOR"/>
+    <mantle.party.PartyRelationship partyRelationshipId="2" fromPartyId="ADMIN" toPartyId="Lakers" relationshipTypeEnumId="VOTED_FOR"/>
+    <mantle.party.PartyRelationship partyRelationshipId="3" fromPartyId="ADMIN" toPartyId="Lakers" relationshipTypeEnumId="VOTED_FOR"/>
+    <!-- players -->
+    <!-- TBD -->
+    <!-- comments -->
+    <!-- TBD -->
+
+    <!-- SECOND DEMO TEAM -->
+
+    <!-- team -->
+    <mantle.party.Party partyId="Fakers" partyTypeEnumId="NBA_TEAM" />
+    <mantle.party.Organization partyId="Fakers" organizationName="Los Angeles Fakers" officeSiteName="https://lakersnation.com" />
+    <!-- logo -->
+    <mantle.party.PartyContent partyId="Fakers" partyContentId="FAKERS_LOGO" partyContentTypeEnumId="NBA_TEAM_LOGO"
+      contentLocation="https://1.bp.blogspot.com/-l7yQ-VQxPL0/T63PfbNEgAI/AAAAAAAAHAc/4qbZsvwCeNs/s1600/la-lakers-fake-sucks-logo-fakers-funny-nba-photos-2012.jpg"/>
+    <!-- conference -->
+    <mantle.party.PartyClassificationAppl partyClassificationId="Eastern conference" partyId="Fakers" />
+    <!-- division -->
+    <mantle.party.PartyClassificationAppl partyClassificationId="3rd Division" partyId="Fakers" />
+    <!-- votes -->
+    <mantle.party.PartyRelationship partyRelationshipId="11" fromPartyId="ADMIN" toPartyId="Fakers" relationshipTypeEnumId="VOTED_FOR"/>
+    <mantle.party.PartyRelationship partyRelationshipId="12" fromPartyId="ADMIN" toPartyId="Fakers" relationshipTypeEnumId="VOTED_FOR"/>
+    <mantle.party.PartyRelationship partyRelationshipId="13" fromPartyId="ADMIN" toPartyId="Fakers" relationshipTypeEnumId="VOTED_FOR"/>
+    <!-- players -->
+    <!-- TBD -->
+    <!-- comments -->
+    <!-- TBD -->
+
+</entity-facade-xml>
+

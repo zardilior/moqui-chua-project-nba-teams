@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+    <parameter name="teamId"/>
+    <parameter name="pageString"/>
+    <parameter name="sizeString"/>
+    <actions>
+      <!-- get team/organization -->
+      <set field="partyId" from="teamId" default-value="Lakers"/>
+      <entity-find-one entity-name="mantle.party.Organization" value-field="team">
+      </entity-find-one>
+
+      <!-- get team conference -->
+      <entity-find entity-name="mantle.party.PartyClassificationAndAppl" list="teamConferenceList">
+        <econdition field-name="classificationTypeEnumId" value="NBA_CONFERENCE"/> 
+        <econdition field-name="partyId" from="partyId"/> 
+      </entity-find>
+      <set field="teamConference" from="teamConferenceList[0]"/>
+
+      <!-- get team division -->
+      <entity-find entity-name="mantle.party.PartyClassificationAndAppl" list="teamDivisionList">
+        <econdition field-name="classificationTypeEnumId" value="NBA_DIVISION"/> 
+        <econdition field-name="partyId" from="partyId"/> 
+      </entity-find>
+      <set field="teamDivision" from="teamDivisionList[0]"/>
+
+      <!-- get team image -->
+      <entity-find entity-name="mantle.party.PartyContent" list="partyContentList">
+        <econdition field-name="partyContentTypeEnumId" value="NBA_TEAM_LOGO"/> 
+        <econdition field-name="partyId" from="partyId"/> 
+      </entity-find>
+      <set field="partyContent" from="partyContentList[0]"/>
+
+      <!-- get vote count -->
+      <entity-find-count entity-name="mantle.party.PartyRelationship" count-field="teamVotes">
+        <econdition field-name="toPartyId" from="partyId"/> 
+      </entity-find-count>
+      <!-- TBD -->
+
+      <!-- get organization players -->
+      <entity-find entity-name="moqui.basic.Enumeration" list="playersList"/>
+      <!-- TBD -->
+
+      <!-- get team reviews -->
+      <!-- TBD -->
+      <set field="page" type="Integer" from="pageString" default-value="0"/>
+      <set field="size" type="Integer" from="sizeString" default-value="6"/>
+      <entity-find entity-name="moqui.basic.Enumeration" list="commentsList">
+        <limit-range start="page" size="size" />
+      </entity-find>
+    </actions>
+    <widgets>
+          <!-- team data -->
+          <container-row>
+            <row-col xs="0" sm="3" md="3" lg="3">
+            </row-col>
+            <!-- team data content-->
+            <row-col xs="12" sm="6" md="6" lg="6">
+              <container-row style="panel panel-default">
+                <!-- logo -->
+                <row-col xs="6" sm="6" md="6" lg="6">
+                  <image
+                    style="img-responsive"
+                    url="${partyContent ? partyContent.contentLocation :'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/300px-No_image_available.svg.png'}"
+                    url-type="plain" 
+                  />
+                </row-col>
+                <!-- team info -->
+                <row-col xs="12" sm="6" md="6" lg="6">
+                  <label type="h3" text="${team ? team.organizationName : 'Team is null'}"/>
+                  <label type="h6" text="${teamConference ? teamConference.partyClassificationId : 'no conference'} - ${teamDivision ? teamDivision.partyClassificationId : 'no division'}"/>
+                  <label type="span" text=" ${teamVotes ? teamVotes : 0} " style="glyphicon glyphicon-heart"/>
+                </row-col>
+              </container-row>
+            </row-col>
+            <row-col xs="0" sm="3" md="3" lg="3">
+            </row-col>
+          </container-row>
+          <!-- main content, players and comments -->
+          <container-row>
+            <row-col xs="0" sm="1" md="1" lg="1">
+            </row-col>
+            <!-- main content - body -->
+            <row-col xs="12" sm="10" md="10" lg="10">
+              <container-row>
+                <!-- players list -->
+                <row-col xs="6" sm="6" md="6" lg="6" style="panel panel-default">
+                  <label type="h3" text="Players" />
+                  <section-iterate name="player-portrait" list="playersList" entry="player" condition="playersList" paginate="true">
+                    <widgets>
+                      <container style="col-xs-6 col-sm-4 col-lg-3">
+                        <image
+                          style="img-responsive"
+                          url="https://www.nba.com/lakers/sites/lakers/files/lakers_logo_500.png"
+                          url-type="plain" 
+                        />
+                        <label type="h6" text="danny boy" />
+                      </container>
+                    </widgets>
+                  </section-iterate>
+                </row-col>
+                <!-- comments -->
+                <row-col xs="12" sm="6" md="6" lg="6" style="panel panel-default">
+                  <label type="h3" text="Comments"/>
+                  <section-iterate name="comments-list" list="commentsList" entry="comment" condition="commentsList">
+                    <widgets>
+                      <container style="panel panel-default">
+                        <label type="span" text="Author -"/>
+                        <label type="span" text=" 56 " style="glyphicon glyphicon-heart"/>
+                        <label type="h6" text="."/>
+                        <label type="span" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis justo a mauris tempus mattis id commodo leo. Maecenas at luctus ante. Ut eget mollis."/>
+                      </container>
+                    </widgets>
+                  </section-iterate>
+                </row-col>
+              </container-row>
+            </row-col>
+            <row-col xs="0" sm="1" md="1" lg="1">
+            </row-col>
+          </container-row>
+          <!-- footer -->
+    </widgets>
+</screen>
