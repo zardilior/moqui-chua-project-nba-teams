@@ -57,22 +57,7 @@
             </row-col>
             <!-- team data content-->
             <row-col xs="12" sm="6" md="6" lg="6">
-              <container-row style="panel panel-default">
-                <!-- logo -->
-                <row-col xs="6" sm="6" md="6" lg="6">
-                  <image
-                    style="img-responsive"
-                    url="${partyContent ? partyContent.contentLocation :'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/300px-No_image_available.svg.png'}"
-                    url-type="plain" 
-                  />
-                </row-col>
-                <!-- team info -->
-                <row-col xs="12" sm="6" md="6" lg="6">
-                  <label type="h3" text="${team ? team.organizationName : 'Team is null'}"/>
-                  <label type="h6" text="${teamConference ? teamConference.partyClassificationId : 'no conference'} - ${teamDivision ? teamDivision.partyClassificationId : 'no division'}"/>
-                  <label type="span" text=" ${teamVotes ? teamVotes : 0} " style="glyphicon glyphicon-heart"/>
-                </row-col>
-              </container-row>
+              <include-screen location="component://chua-project/screen/sub-components/team-details.xml"/>
             </row-col>
             <row-col xs="0" sm="3" md="3" lg="3">
             </row-col>
