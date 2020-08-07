@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+        xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+    <parameter name="teamid"/>
+    <parameter name="pageString"/>
+    <parameter name="sizeString"/>
+    <actions>
+      <!-- get team reviews -->
+      <!-- TBD -->
+      <set field="page" type="Integer" from="pageString" default-value="0"/>
+      <set field="size" type="Integer" from="sizeString" default-value="6"/>
+      <entity-find entity-name="moqui.basic.Enumeration" list="commentsList">
+        <limit-range start="page" size="size" />
+      </entity-find>
+    </actions>
+    <widgets>
+      <label type="h3" text="Comments"/>
+      <section-iterate name="comments-list" list="commentsList" entry="comment" condition="commentsList">
+        <widgets>
+          <container style="panel panel-default">
+            <label type="span" text="Author -"/>
+            <label type="span" text=" 56 " style="glyphicon glyphicon-heart"/>
+            <label type="h6" text="."/>
+            <label type="span" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis justo a mauris tempus mattis id commodo leo. Maecenas at luctus ante. Ut eget mollis."/>
+          </container>
+        </widgets>
+      </section-iterate>
+    </widgets>
+</screen>
