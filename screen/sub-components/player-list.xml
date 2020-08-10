@@ -14,9 +14,7 @@
         <econdition field-name="partyId" operator="in" from="partyIdList"/>
       </entity-find> 
       <entity-find entity-name="mantle.party.PartyContent" list="photoList">
-        <!--
         <econdition field-name="partyContentTypeEnumId" value="PLAYER_PHOTO"/>
--->
         <econdition field-name="partyId" operator="in" from="partyIdList"/>
       </entity-find> 
       <!-- TBD -->
