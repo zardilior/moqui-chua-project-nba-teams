@@ -35,6 +35,8 @@
             <row-col xs="0" sm="1" md="1" lg="2">
             </row-col>
           </container-row>
+    </widgets>
+        <!-- test comment -->
           <!-- footer -->
     </widgets>
 </screen>
