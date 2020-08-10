@@ -5,22 +5,40 @@
     <parameter name="teamid"/>
     <actions>
       <!-- get organization players -->
-      <entity-find entity-name="moqui.basic.Enumeration" list="playersList"/>
+      <entity-find entity-name="mantle.party.PartyRelationship" list="relationshipList">
+        <econdition field-name="relationshipTypeEnumId" value="PLAYS_FOR"/>
+        <econdition field-name="toPartyId" from="teamId"/>
+      </entity-find> 
+      <set field="partyIdList" from="relationshipList*.fromPartyId"/>
+      <entity-find entity-name="mantle.party.Person" list="personlist">
+        <econdition field-name="partyId" operator="in" from="partyIdList"/>
+      </entity-find> 
+      <entity-find entity-name="mantle.party.PartyContent" list="photoList">
+        <!--
+        <econdition field-name="partyContentTypeEnumId" value="PLAYER_PHOTO"/>
+-->
+        <econdition field-name="partyId" operator="in" from="partyIdList"/>
+      </entity-find> 
       <!-- TBD -->
     </actions>
     <widgets>
       <label type="h3" text="Players" />
-      <section-iterate name="player-portrait" list="playersList" entry="player" condition="playersList" paginate="true">
+      <section-iterate name="player-portrait" list="photoList" entry="photo" condition="photoList" paginate="true">
         <widgets>
           <container style="col-xs-6 col-sm-4 col-lg-3">
             <image
               style="img-responsive"
-              url="https://www.nba.com/lakers/sites/lakers/files/lakers_logo_500.png"
+              url="${photo.contentLocation}"
               url-type="plain" 
             />
-            <label type="h6" text="danny boy" />
+            <label type="h6" text="${photo.partyId}" />
           </container>
         </widgets>
       </section-iterate>
+      <section name="no-player-message" condition="photoList ? photoList.size()==0 : true" paginate="true">
+        <widgets>
+          <label type="h4" text="No Players at this team yet :(" />
+        </widgets>
+      </section>
     </widgets>
 </screen>
