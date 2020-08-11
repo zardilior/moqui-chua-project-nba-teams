@@ -3,6 +3,9 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <parameter name="teamid"/>
+  <transition>
+    <default-response url="../chua-project/player-details.xml"/>
+  </transition>
     <actions>
       <!-- get organization players -->
       <entity-find entity-name="mantle.party.PartyRelationship" list="relationshipList">
@@ -30,6 +33,7 @@
               url-type="plain" 
             />
             <label type="h6" text="${photo.partyId}" />
+            <link url="playerInfo" text="Details" style="btn-success"/>
           </container>
         </widgets>
       </section-iterate>
