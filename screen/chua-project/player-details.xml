@@ -3,6 +3,6 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <widgets>
-        <label type="h3" text="Player Details Page" />
+        <label type="h3" text="Player Details Page. Under Construction" />
     </widgets>
 </screen>
