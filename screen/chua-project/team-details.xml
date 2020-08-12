@@ -2,7 +2,10 @@
 <screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
-    <parameter name="teamid"/>
+    <parameter name="teamId"/>
+    <actions>
+      <set field="teamId" from="teamId" default-value="Lakers" />
+    </actions>
     <widgets>
           <!-- team data -->
           <container-row>

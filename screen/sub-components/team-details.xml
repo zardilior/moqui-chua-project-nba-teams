@@ -5,7 +5,7 @@
     <parameter name="teamId"/>
     <actions>
       <!-- get team/organization -->
-      <set field="partyId" from="teamId" default-value="Lakers"/>
+      <set field="partyId" from="teamId"/>
       <entity-find-one entity-name="mantle.party.Organization" value-field="team">
       </entity-find-one>
 

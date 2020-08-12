@@ -4,7 +4,7 @@
     <moqui.security.ArtifactGroup artifactGroupId="CHUA_APP_PUBLIC"
             description="CHUA app public website screens"/>
     <moqui.security.ArtifactGroupMember artifactGroupId="CHUA_APP_PUBLIC" 
-            artifactName="component://donation-form/screen/donation-form.xml"
+            artifactName="component://chua-project/screen/chua-project.xml"
             artifactTypeEnumId="AT_XML_SCREEN" inheritAuthz="Y"/>
     <moqui.security.ArtifactAuthz artifactAuthzId="TUT_ALL" 
             userGroupId="ALL_USERS" artifactGroupId="CHUA_APP_PUBLIC"
@@ -24,7 +24,6 @@
 
     <moqui.basic.Enumeration enumId="VOTED_FOR" enumTypeId="PartyRelationshipType" description="The team a user supported"/>
     <moqui.basic.Enumeration enumId="PLAYS_FOR" enumTypeId="PartyRelationshipType" description="The team for which the player plays"/>
-
     <!-- REQUIRED TYPES -->
     <!-- conference -->
     <mantle.party.PartyClassification partyClassificationId="Western conference" classificationTypeEnumId="NBA_CONFERENCE" />
