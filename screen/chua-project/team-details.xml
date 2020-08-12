@@ -3,6 +3,9 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <parameter name="teamId"/>
+    <transition name="player-details">
+      <default-response url="/player-details"/>
+    </transition> 
     <actions>
       <set field="teamId" from="teamId" default-value="Lakers" />
     </actions>

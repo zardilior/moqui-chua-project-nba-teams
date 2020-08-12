@@ -3,6 +3,9 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <parameter name="teamId"/>
+    <transition name="player-details">
+      <default-response url="/team-details"/>
+    </transition> 
     <actions>
       <set field="teamId" from="teamId" default-value="Lakers" />
     </actions>
@@ -10,6 +13,7 @@
           <!-- team data -->
           <container-row>
             <row-col xs="0" sm="3" md="3" lg="4">
+              <link url="player-details" text="works" style="btn-success"/>
             </row-col>
             <!-- team data content-->
             <row-col xs="12" sm="6" md="6" lg="4">

@@ -30,14 +30,8 @@
               url-type="plain" 
             />
             <label type="h6" text="${photo.partyId}" />
+            <link url="player-details" text="works" style="btn-success"/>
             <container-dialog id="CreateTutorialDialog" button-text="Details">
-                <form-single name="playerInfo">
-                  <field name="testField">
-                    <default-field title="Test field">
-                      <text-line size="30"/>
-                    </default-field>
-                  </field>
-                </form-single>
             </container-dialog>
           </container>
         </widgets>
