@@ -2,7 +2,7 @@
 <screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
-    <parameter name="teamid"/>
+    <parameter name="teamId"/>
     <parameter name="pageString"/>
     <parameter name="sizeString"/>
     <actions>
@@ -10,21 +10,29 @@
       <!-- TBD -->
       <set field="page" type="Integer" from="pageString" default-value="0"/>
       <set field="size" type="Integer" from="sizeString" default-value="6"/>
-      <entity-find entity-name="moqui.basic.Enumeration" list="commentsList">
+      <entity-find entity-name="mantle.party.PartyReview" list="commentsList">
+        <econdition field-name="partyId" from="teamId" />
         <limit-range start="page" size="size" />
       </entity-find>
     </actions>
     <widgets>
       <label type="h3" text="Comments"/>
       <section-iterate name="comments-list" list="commentsList" entry="comment" condition="commentsList">
+        <actions>
+          .<set field="commentAuthor" from="comment.UserAccount ? comment.UserAccount.username : 'Anonymous'" />
+        </actions>
         <widgets>
           <container style="panel panel-default">
-            <label type="span" text="Author -"/>
-            <label type="span" text=" 56 " style="glyphicon glyphicon-heart"/>
-            <label type="h6" text="."/>
-            <label type="span" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis justo a mauris tempus mattis id commodo leo. Maecenas at luctus ante. Ut eget mollis."/>
+            <label type="span" text=" ${commentAuthor} - "/>
+            <label type="span" text=" ${comment.partyRating} " style="glyphicon glyphicon-star"/>
+            <label type="h6" text="${comment.partyReview}"/>
           </container>
         </widgets>
       </section-iterate>
+      <section name="no-player-message" condition="commentsList ? commentsList.size()==0 : true" paginate="true">
+        <widgets>
+          <label type="h4" text="No Comments for this team yet :(" />
+        </widgets>
+      </section>
     </widgets>
 </screen>

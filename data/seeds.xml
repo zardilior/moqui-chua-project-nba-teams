@@ -35,6 +35,7 @@
 
     <!-- temporal user -->
     <mantle.party.Party partyId="ADMIN" partyTypeEnumId="CHUA_PROJECT_USER" />
+    <moqui.security.UserAccount userId="hardcoded" partyId="ADMIN" username="The Hardcoded User" />
 
     <!-- FIRST DEMO TEAM -->
 
@@ -215,6 +216,9 @@
 		partyId= "Dwight Howard"
     contentLocation= "https://d3gc6u29mr2zrm.cloudfront.net/assets/images/nba/players/low-res/20000543.png"
   />
+  <mantle.party.PartyReview userId="hardcoded" partyId="Lakers" partyReview="They are good" partyRating="3"/>
+  <mantle.party.PartyReview partyId="Lakers" partyReview="They are gooood" partyRating="4"/>
+  <mantle.party.PartyReview partyId="Lakers" partyReview="They are goooooood" partyRating="5"/>
 
 
 </entity-facade-xml>

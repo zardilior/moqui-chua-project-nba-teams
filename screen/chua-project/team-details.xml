@@ -38,6 +38,12 @@
             <row-col xs="0" sm="1" md="1" lg="2">
             </row-col>
           </container-row>
+          <container>
+            <label type="h1" text="."/>
+          </container>
+          <container style="navbar navbar-default navbar-fixed-bottom lead text-center">
+            <link style="btn-success navbar-btn" text="vote"/>
+            <link style="btn-success navbar-btn" text="comment"/>
+          </container>
     </widgets>
-          <!-- footer -->
 </screen>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/entity-definition-2.1.xsd">
+ <entity entity-name="PartyReview" package="mantle.party" cache="never">
+      <field name="partyReviewId" type="id" is-pk="true"/>
+      <field name="partyId" type="id"/>
+      <field name="userId" type="id"/>
+      <!--
+        <field name="statusId" type="id" enable-audit-log="true"/>
+      -->
+      <field name="postedAnonymous" type="text-indicator"/>
+      <field name="postedDateTime" type="date-time"/>
+      <field name="partyRating" type="number-decimal"/>
+      <field name="partyReview" type="text-very-long"/>
+      <relationship type="one" related="mantle.party.Party"/>
+      <relationship type="one" related="moqui.security.UserAccount"/>
+      <!--
+      <relationship type="one" title="PartyReview" related="moqui.basic.StatusItem"/>
+      <seed-data>
+          <moqui.basic.StatusType description="Party Review" statusTypeId="PartyReview"/>
+          <moqui.basic.StatusItem description="Pending" sequenceNum="1" statusId="PrvwPending" statusTypeId="PartyReview"/>
+          <moqui.basic.StatusItem description="Approved" sequenceNum="2" statusId="PrvwApproved" statusTypeId="PartyReview"/>
+          <moqui.basic.StatusItem description="Deleted" sequenceNum="99" statusId="PrvwDeleted" statusTypeId="PartyReview"/>
+          <moqui.basic.StatusFlowTransition statusFlowId="Default" statusId="PrvwPending" toStatusId="PrvwApproved" transitionName="Review Approved"/>
+          <moqui.basic.StatusFlowTransition statusFlowId="Default" statusId="PrvwPending" toStatusId="PrvwDeleted" transitionName="Review Deleted"/>
+          <moqui.basic.StatusFlowTransition statusFlowId="Default" statusId="PrvwApproved" toStatusId="PrvwDeleted" transitionName="Review Deleted"/>
+      </seed-data>
+      -->
+  </entity>
+</entities>
+
+
