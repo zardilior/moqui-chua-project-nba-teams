@@ -3,6 +3,7 @@
         xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="false">
     <subscreens default-item="team-details"/>
+    <!--- COPIED FROM ../../base-component/webroot/screen/webroot/apps.xml to get container dialogs-->
     <pre-actions><script><![CDATA[
         // jQuery, Bootstrap, Twitter TypeAhead, Form Validation (jquery-validate), Date/Time (Moment, bootstrap-datetimepicker),
         //      Drop-down (Select2, Selectivity), Notify/Growl (Bootstrap Notify), Inline Editable, Sortable Hierarchical List
@@ -20,6 +21,47 @@
         if (validateScriptsOut.methodsLocation) html_scripts.add(validateScriptsOut.methodsLocation)
     ]]></script></pre-actions>
     <widgets>
-        <subscreens-active/>
+        <!--- COPIED FROM ../../base-component/webroot/screen/webroot/apps.xml to get notifications-->
+        <render-mode><text type="html"><![CDATA[<script>var notificationClient = new moqui.NotificationClient((location.protocol === 'https:' ? 'wss' : 'ws') + "://${ec.web.getHostName(true)}${ec.web.servletContext.contextPath}/notws");</script>]]></text></render-mode>
+        <container id="content"><container style="inner"><container style="container-fluid">
+            <section name="MessagesSection"><widgets>
+                <!-- NOTE: no need to getPublicMessageInfos() or getSavedPublicMessages(), they are always in the messages and savedMessages for internal/other user view -->
+                <section-iterate name="headerMessageInfos" list="ec.message.messageInfos" entry="messageInfo"><widgets>
+                    <render-mode><text type="html"><![CDATA[<div class="alert alert-${messageInfo.typeString} fade in" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>]]></text></render-mode>
+                    <label text="${messageInfo.message}" type="h4"/>
+                    <render-mode><text type="html"><![CDATA[</div>]]></text></render-mode>
+                </widgets></section-iterate>
+                <section-iterate name="headerErrors" list="ec.message.errors" entry="errorMessage"><widgets>
+                    <render-mode><text type="html"><![CDATA[<div class="alert alert-danger fade in" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>]]></text></render-mode>
+                    <label text="${errorMessage}" type="h4"/>
+                    <render-mode><text type="html"><![CDATA[</div>]]></text></render-mode>
+                </widgets></section-iterate>
+                <section-iterate name="headerValidationErrors" list="ec.message.validationErrors" entry="validationError"><widgets>
+                    <!-- TODO: put these by fields instead of in header -->
+                    <render-mode><text type="html"><![CDATA[<div class="alert alert-danger fade in" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>]]></text></render-mode>
+                    <label text="${validationError.message} (for field ${validationError.fieldPretty})" type="h4"/>
+                    <render-mode><text type="html"><![CDATA[</div>]]></text></render-mode>
+                </widgets></section-iterate>
+
+                <section-iterate name="headerSavedMessages" list="ec.web?.savedMessages" entry="messageInfo"><widgets>
+                    <render-mode><text type="html"><![CDATA[<div class="alert alert-${messageInfo.typeString} fade in" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>]]></text></render-mode>
+                    <label text="${messageInfo.message}" type="h4"/>
+                    <render-mode><text type="html"><![CDATA[</div>]]></text></render-mode>
+                </widgets></section-iterate>
+                <section-iterate name="headerSavedErrors" list="ec.web?.savedErrors" entry="errorMessage"><widgets>
+                    <render-mode><text type="html"><![CDATA[<div class="alert alert-danger fade in" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>]]></text></render-mode>
+                    <label text="${errorMessage}" type="h4"/>
+                    <render-mode><text type="html"><![CDATA[</div>]]></text></render-mode>
+                </widgets></section-iterate>
+                <section-iterate name="headerSavedValidationErrors" list="ec.web?.savedValidationErrors" entry="validationError"><widgets>
+                    <!-- TODO: put these by fields instead of in header -->
+                    <render-mode><text type="html"><![CDATA[<div class="alert alert-danger fade in" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>]]></text></render-mode>
+                    <label text="${validationError.message} (for field ${validationError.fieldPretty})" type="h4"/>
+                    <render-mode><text type="html"><![CDATA[</div>]]></text></render-mode>
+                </widgets></section-iterate>
+            </widgets></section>
+
+            <subscreens-active/>
+        </container></container></container>
     </widgets>
 </screen>

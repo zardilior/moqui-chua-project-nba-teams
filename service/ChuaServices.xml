@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/service-definition-2.1.xsd">
+    <service verb="vote" noun="Team">
+        <in-parameters>
+          <parameter name="fromPartyId"/>
+          <parameter name="toPartyId"/>
+        </in-parameters>
+        <out-parameters>
+          <parameter name="previousVote" />
+          <parameter name="error" />
+          <!-- success-->
+        </out-parameters>
+        <actions>
+          <!-- find vote from party to party -->
+          <entity-find entity-name="mantle.party.PartyRelationship" list="previousVotes">
+            <econdition field-name="relationshipTypeEnumId" value="VOTED_FOR"/> 
+            <econdition field-name="toPartyId" from="toPartyId"/> 
+            <econdition field-name="fromPartyId" from="fromPartyId"/> 
+          </entity-find>
+          <set field="previousVote" from="previousVotes[0]" />
+
+          <if condition="previousVote == null">
+            <then>
+              <service-call
+                name="create#mantle.party.PartyRelationship"
+                in-map="[
+                  fromDate: ec.user.nowTimestamp,
+                  relationshipTypeEnumId: 'VOTED_FOR',
+                  fromPartyId: fromPartyId,
+                  toPartyId: toPartyId
+                ]"
+              />
+              <set field="error" value="no" />
+            </then>
+            <else>
+              <set field="error" value="yes" />
+              <return error="true" message="You can't vote twice." />
+            </else>
+          </if>
+        </actions>
+    </service>
+</services>

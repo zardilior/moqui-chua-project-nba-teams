@@ -3,6 +3,7 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <parameter name="teamId"/>
+      <transition-include name="voteFor" location="component://chua-project/screen/sub-components/actions-footer.xml"/>
     <pre-actions>
       <!-- fix for modal in footer -->
       <script><![CDATA[
@@ -11,6 +12,7 @@
     </pre-actions>
     <actions>
       <set field="teamId" from="teamId" default-value="Lakers" />
+      <set field="partyId" from="teamId" default-value="Lakers" />
     </actions>
     <widgets>
         <!-- team data -->
