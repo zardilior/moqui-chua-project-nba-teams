@@ -3,19 +3,17 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <parameter field="teamId" />
-    <transition name="voteFor">
+    <transition name="commentOn">
       <service-call
-        name="ChuaServices.vote#Team"
+        name="create#mantle.party.PartyReview"
         in-map="[
-          fromPartyId: ec.user.userAccount.partyId,
-          toPartyId: teamId
+          userId: ec.user.userId,
+          partyId: teamId,
+          partyRating: rating,
+          partyReview: comment,
+          postedDateTime: ec.user.nowTimestamp
         ]"
       />
-      <default-response url="." >
-        <parameter name="teamId" from="teamId"/>
-      </default-response>
-    </transition>
-    <transition name="commentOn">
       <default-response url="." />
       <!-- service call -->
     </transition>
@@ -30,16 +28,7 @@
             />
             <section name="voteForm" condition="isAuthenticated">
               <widgets>
-                <container style="text-center" >
-                  <label
-                    type="h4" 
-                    text="We really appreciate your support! Do you confirm your vote for ${teamId}?"
-                  />
-                  <form-single name="vote-form" transition="voteFor">
-                    <field name="teamId"><default-field><hidden value="${teamId}"/></default-field></field>
-                     <field name="submitButton"><default-field title="Vote"><submit/></default-field></field>
-                  </form-single>
-                </container>
+                <include-screen location="component://chua-project/screen/sub-components/vote-form.xml"/>
               </widgets>
             </section>
           </container-dialog>
@@ -57,7 +46,28 @@
                     text="What would you like to comment about the team?"
                   />
                   <form-single name="comment-form" transition="commentOn">
-                     <field name="submitButton"><default-field title="Vote"><submit/></default-field></field>
+                    <field name="teamId">
+                      <default-field>
+                        <hidden value="${teamId}"/>
+                      </default-field>
+                    </field>
+                    <field name="rating">
+                      <default-field title="Rating">
+                        <drop-down allow-empty="false" combo-box="true">
+                          <list-options list="[1,2,3,4,5]"/>
+                         </drop-down>
+                      </default-field>
+                    </field>
+                    <field name="comment">
+                      <default-field title="Comment">
+                        <text-area rows="3" cols="50"/>
+                      </default-field>
+                   </field>
+                   <field name="submitButton">
+                     <default-field title="Add comment">
+                       <submit/>
+                     </default-field>
+                   </field>
                   </form-single>
                 </container>
               </widgets>

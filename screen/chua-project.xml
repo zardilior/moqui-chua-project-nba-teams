@@ -19,6 +19,9 @@
         Map validateScriptsOut = ec.service.sync().name("webroot.LocaleServices.get#ValidateLocaleScripts").call()
         if (validateScriptsOut.messagesLocation) html_scripts.add(validateScriptsOut.messagesLocation)
         if (validateScriptsOut.methodsLocation) html_scripts.add(validateScriptsOut.methodsLocation)
+
+        // fix for modal in footer -->
+        html_stylesheets.add('/style.css')
     ]]></script></pre-actions>
     <widgets>
         <!--- COPIED FROM ../../base-component/webroot/screen/webroot/apps.xml to get notifications-->

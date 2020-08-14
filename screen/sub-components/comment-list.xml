@@ -9,9 +9,10 @@
       <!-- get team reviews -->
       <!-- TBD -->
       <set field="page" type="Integer" from="pageString" default-value="0"/>
-      <set field="size" type="Integer" from="sizeString" default-value="6"/>
+      <set field="size" type="Integer" from="sizeString" default-value="8"/>
       <entity-find entity-name="mantle.party.PartyReview" list="commentsList">
         <econdition field-name="partyId" from="teamId" />
+        <order-by field-name="-postedDateTime" />
         <limit-range start="page" size="size" />
       </entity-find>
     </actions>

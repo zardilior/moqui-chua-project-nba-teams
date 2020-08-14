@@ -1,0 +1,31 @@
+<screen
+  xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+  xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+  require-authentication="anonymous-all"
+>
+  <parameter field="teamId" />
+  <transition name="voteFor">
+    <service-call
+      name="ChuaServices.vote#Team"
+      in-map="[
+        fromPartyId: ec.user.userAccount.partyId,
+        toPartyId: teamId,
+      ]"
+    />
+    <default-response url="." >
+      <parameter name="teamId" from="teamId"/>
+    </default-response>
+  </transition>
+  <widgets>
+    <container style="text-center" >
+      <label
+        type="h4" 
+        text="We really appreciate your support! Do you confirm your vote for ${teamId}?"
+      />
+      <form-single name="vote-form" transition="voteFor">
+        <field name="teamId"><default-field><hidden value="${teamId}"/></default-field></field>
+        <field name="submitButton"><default-field title="Vote"><submit/></default-field></field>
+      </form-single>
+    </container>
+  </widgets>
+</screen>
