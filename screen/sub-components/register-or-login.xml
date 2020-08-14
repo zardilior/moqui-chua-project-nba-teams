@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+        xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+    <parameter name="teamid"/>
+    <actions>
+      <set field="isAuthenticated" from="ec.user.userId ? true : false" />
+    </actions>
+    <widgets>
+      <section name="login-or-register" condition="!isAuthenticated"> 
+        <widgets>
+          <label type="h2" text="You need to be authenticated" />
+          <container-row>
+            <row-col xs="6">
+              <label type="h3" text="Register Section (TBD)" />
+            </row-col>
+            <row-col xs="6">
+              <label type="h3" text="Login Section (TBD)" />
+            </row-col>
+          </container-row>
+        </widgets>
+      </section> 
+    </widgets>
+</screen>

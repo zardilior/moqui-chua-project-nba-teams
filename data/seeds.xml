@@ -80,7 +80,9 @@
     <!-- comments -->
     <!-- TBD -->
 
-    <!-- Lakers Players -->
+  <!-- Lakers-->
+
+  <!-- DEMO PLAYER -->
   <mantle.party.Party partyId= "Avery Bradley" partyTypeEnumId="NBA_PLAYER"/>
   <mantle.party.Person partyId= "Avery Bradley"/>
   <mantle.party.PartyRelationship fromPartyId= "Avery Bradley" toPartyId="Lakers" relationshipTypeEnumId="PLAYS_FOR"/>"
@@ -89,6 +91,12 @@
     contentLocation= "https://d3gc6u29mr2zrm.cloudfront.net/assets/images/nba/players/low-res/20000559.png"
   />
 
+  <!-- weight -->
+  <mantle.party.PartyDimension partyId="Avery Bradley" uomDimensionTypeId="Weight" uomId="WT_lb" value="200" />
+  <!-- height -->
+  <mantle.party.PartyDimension partyId="Avery Bradley" uomDimensionTypeId="Height" uomId="LEN_ft" value="6" />
+
+  <!-- Lakers Players -->
   <mantle.party.Party partyId= "Rajon Rondo" partyTypeEnumId="NBA_PLAYER"/>
   <mantle.party.Person partyId= "Rajon Rondo"/>
   <mantle.party.PartyRelationship fromPartyId= "Rajon Rondo" toPartyId="Lakers" relationshipTypeEnumId="PLAYS_FOR"/>"

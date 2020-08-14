@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+        xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+    <widgets>
+      <parameter field="partyId" />
+      <transition name="voteFor">
+        <!-- service call -->
+        <service-call name="create#mantle.party.PartyRelationship" in-map="[fromDate:ec.user.nowTimestamp,
+                        relationshipTypeEnumId:'VOTE_FOR', fromPartyId:teamId, toPartyId:accountPartyId,
+                        fromRoleTypeId:'Contact', toRoleTypeId:'Account']"/>
+        <default-response url="." />
+      </transition>
+      <transition name="commentOn">
+        <!-- service call -->
+        <default-response url="." />
+      </transition>
+      <container style="navbar navbar-default navbar-fixed-bottom lead text-center footer">
+        <container style="input-group input-group-lg">
+          <container-dialog id="vote" button-text="Vote"
+            type="success navbar-btn form-control">
+            <include-screen
+              location="component://chua-project/screen/sub-components/register-or-login.xml"
+              share-scope="true"
+            />
+            <section name="voteForm" condition="isAuthenticated">
+              <widgets>
+                <container style="text-center" >
+                  <label
+                    type="h4" 
+                    text="We really appreciate your support! Do you confirm your vote?"
+                  />
+                  <form-single name="vote-form" transition="voteFor">
+                     <field name="submitButton"><default-field title="Vote"><submit/></default-field></field>
+                  </form-single>
+                </container>
+              </widgets>
+            </section>
+          </container-dialog>
+          <container-dialog id="comment" button-text="Comment"
+            type="success navbar-btn form-control">
+            <include-screen
+              location="component://chua-project/screen/sub-components/register-or-login.xml"
+              share-scope="true"
+            />
+            <section name="voteForm" condition="isAuthenticated">
+              <widgets>
+                <container style="text-center" >
+                  <label
+                    type="h4" 
+                    text="What would you like to comment about the team?"
+                  />
+                  <form-single name="comment-form" transition="commentOn">
+                     <field name="submitButton"><default-field title="Vote"><submit/></default-field></field>
+                  </form-single>
+                </container>
+              </widgets>
+            </section>
+          </container-dialog>
+        </container>
+      </container>
+    </widgets>
+</screen>
