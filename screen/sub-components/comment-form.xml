@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen
+  xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+  xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+  require-authentication="anonymous-all"
+>
+  <parameter field="teamId" />
+  <transition name="commentOn">
+    <service-call
+      name="create#mantle.party.PartyReview"
+      in-map="[
+        userId: ec.user.userId,
+        partyId: teamId,
+        partyRating: rating,
+        partyReview: comment,
+        postedDateTime: ec.user.nowTimestamp
+      ]"
+    />
+    <default-response url="." />
+    <!-- service call -->
+  </transition>
+  <widgets>
+    <container style="text-center" >
+      <label
+        type="h4" 
+        text="What would you like to comment about the team?"
+      />
+      <form-single name="comment-form" transition="commentOn">
+        <field name="teamId">
+          <default-field>
+            <hidden value="${teamId}"/>
+          </default-field>
+        </field>
+        <field name="rating">
+          <default-field title="Rating">
+            <drop-down allow-empty="false" combo-box="true">
+              <list-options list="[1,2,3,4,5]"/>
+             </drop-down>
+          </default-field>
+        </field>
+        <field name="comment">
+          <default-field title="Comment">
+            <text-area rows="3" cols="50"/>
+          </default-field>
+       </field>
+       <field name="submitButton">
+         <default-field title="Add comment">
+           <submit/>
+         </default-field>
+       </field>
+      </form-single>
+    </container>
+  </widgets>
+</screen>
