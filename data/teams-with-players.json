@@ -12,6 +12,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627761.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -25,6 +30,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629718.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -40,6 +50,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -53,6 +68,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1713.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -68,6 +88,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -81,6 +106,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203473.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -96,6 +126,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628981.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -109,6 +144,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629164.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -124,6 +164,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626203.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -137,6 +182,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -152,6 +202,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -165,6 +220,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627745.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -180,6 +240,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627746.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -194,6 +259,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629629.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -207,6 +277,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201952.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -306,6 +381,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627759.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -319,6 +399,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629035.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -334,6 +419,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629605.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -347,6 +437,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629750.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -362,6 +457,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202330.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -375,6 +475,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202683.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -390,6 +495,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629641.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -403,6 +513,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628400.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -418,6 +533,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629738.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -431,6 +551,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203935.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -446,6 +571,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628464.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -459,6 +589,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202954.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -474,6 +609,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629682.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -488,6 +628,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629684.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -501,6 +646,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629057.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -600,6 +750,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -613,6 +768,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626147.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -628,6 +788,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201163.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -641,6 +806,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629185.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -656,6 +826,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629651.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -669,6 +844,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2037.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -684,6 +864,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203915.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -697,6 +882,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -712,6 +902,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629743.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -725,6 +920,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203925.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -740,6 +940,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -753,6 +958,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204020.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -768,6 +978,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201599.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -781,6 +996,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629066.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -796,6 +1016,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627747.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -809,6 +1034,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627789.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -824,6 +1054,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629725.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -837,6 +1072,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629058.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -852,6 +1092,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627752.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -866,6 +1111,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202066.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -879,6 +1129,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202498.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -1002,6 +1257,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628407.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -1015,6 +1275,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201587.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -1030,6 +1295,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202687.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -1043,6 +1313,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -1058,6 +1333,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628984.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1071,6 +1351,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626195.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -1086,6 +1371,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628997.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -1099,6 +1389,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628998.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -1114,6 +1409,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629667.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -1127,6 +1427,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628370.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -1142,6 +1447,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1155,6 +1465,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628424.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -1170,6 +1485,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629034.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -1184,6 +1504,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629023.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -1197,6 +1522,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -1296,6 +1626,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627853.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1309,6 +1644,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -1324,6 +1664,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627739.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1337,6 +1682,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626245.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -1352,6 +1702,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629655.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -1365,6 +1720,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627885.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -1380,6 +1740,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628990.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -1393,6 +1758,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628436.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -1408,6 +1778,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -1421,6 +1796,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -1436,6 +1816,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629690.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1449,6 +1834,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203490.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -1464,6 +1854,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203107.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1477,6 +1872,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629622.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -1492,6 +1892,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627756.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1506,6 +1911,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629632.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1519,6 +1929,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201152.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -1626,6 +2041,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628395.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -1639,6 +2059,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203521.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -1654,6 +2079,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203083.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -1667,6 +2097,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203957.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -1682,6 +2117,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629636.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1695,6 +2135,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -1710,6 +2155,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628035.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -1723,6 +2173,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629760.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -1738,6 +2193,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626204.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -1751,6 +2211,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626224.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -1766,6 +2231,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629645.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -1779,6 +2249,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -1794,6 +2269,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202684.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -1807,6 +2287,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629731.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -1822,6 +2307,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629685.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -1835,6 +2325,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627790.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -1938,6 +2433,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200826.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1951,6 +2451,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628973.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -1966,6 +2471,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203504.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -1979,6 +2489,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626161.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -1994,6 +2509,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628499.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2007,6 +2527,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203552.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -2022,6 +2547,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627827.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2035,6 +2565,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203501.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -2050,6 +2585,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628382.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2063,6 +2603,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203077.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2078,6 +2623,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628467.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2091,6 +2641,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201584.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -2106,6 +2661,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626246.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -2119,6 +2679,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -2134,6 +2699,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203939.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -2148,6 +2718,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629729.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -2161,6 +2736,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626153.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -2268,6 +2848,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203115.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2281,6 +2866,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628966.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2296,6 +2886,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629626.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -2309,6 +2904,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628427.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2324,6 +2924,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629076.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2337,6 +2942,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628470.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2352,6 +2962,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203584.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2365,6 +2980,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628408.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -2380,6 +3000,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203924.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2393,6 +3018,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -2408,6 +3038,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200794.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2421,6 +3056,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628420.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -2436,6 +3076,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2449,6 +3094,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -2464,6 +3114,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2477,6 +3132,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203943.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2580,6 +3240,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629648.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2593,6 +3258,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628971.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -2608,6 +3278,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629635.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2621,6 +3296,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204038.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -2636,6 +3316,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201933.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -2649,6 +3334,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203089.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -2664,6 +3354,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628379.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2677,6 +3372,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629663.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2692,6 +3392,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202688.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2705,6 +3410,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627748.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -2720,6 +3430,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203895.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2733,6 +3448,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -2748,6 +3468,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628383.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -2761,6 +3486,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201565.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -2776,6 +3506,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203503.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2790,6 +3525,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629017.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2803,6 +3543,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626174.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2910,6 +3655,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629065.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2923,6 +3673,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627737.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2938,6 +3693,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -2951,6 +3711,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2966,6 +3731,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627814.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -2979,6 +3749,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -2994,6 +3769,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628539.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3007,6 +3787,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629672.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3022,6 +3807,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3035,6 +3825,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629346.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3050,6 +3845,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3064,6 +3864,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629308.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -3077,6 +3882,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3168,6 +3978,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203998.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -3181,6 +3996,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201960.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3196,6 +4016,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2199.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -3209,6 +4034,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629598.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3224,6 +4054,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203496.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -3237,6 +4072,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626187.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3252,6 +4092,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201569.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3265,6 +4110,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201145.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3280,6 +4130,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627863.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -3293,6 +4148,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629739.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -3308,6 +4168,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201601.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -3321,6 +4186,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203463.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3336,6 +4206,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628021.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -3349,6 +4224,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203085.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3364,6 +4244,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200757.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -3377,6 +4262,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200782.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3480,6 +4370,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629048.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -3493,6 +4388,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628968.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -3508,6 +4408,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3521,6 +4426,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3536,6 +4446,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203200.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -3549,6 +4464,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628993.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3564,6 +4484,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203087.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -3577,6 +4502,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628388.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3592,6 +4522,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3605,6 +4540,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203926.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3620,6 +4560,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628513.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3633,6 +4578,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203506.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3648,6 +4598,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203960.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -3661,6 +4616,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628410.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3676,6 +4636,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -3689,6 +4654,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203933.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3792,6 +4762,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201976.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3805,6 +4780,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629599.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -3820,6 +4800,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -3833,6 +4818,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203210.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -3848,6 +4838,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626149.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -3861,6 +4856,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202704.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3876,6 +4876,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629662.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -3889,6 +4894,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629611.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -3904,6 +4914,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203585.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -3917,6 +4932,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202694.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -3932,6 +4952,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628405.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -3945,6 +4970,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201149.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -3960,6 +4990,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202335.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -3973,6 +5008,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629013.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -3988,6 +5028,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101150.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4001,6 +5046,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -4104,6 +5154,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628961.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -4117,6 +5172,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202340.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4132,6 +5192,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629719.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -4145,6 +5210,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203484.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4160,6 +5230,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627936.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4173,6 +5248,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626188.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4188,6 +5268,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201162.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -4201,6 +5286,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201980.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4216,6 +5306,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629659.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4229,6 +5324,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2730.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -4244,6 +5344,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -4257,6 +5362,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201580.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -4272,6 +5382,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202693.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -4285,6 +5400,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200765.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4300,6 +5420,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2747.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4313,6 +5438,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203079.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4416,6 +5546,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4429,6 +5564,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203937.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -4444,6 +5584,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628415.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -4457,6 +5602,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629634.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -4472,6 +5622,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203476.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -4485,6 +5640,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629741.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4500,6 +5660,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628367.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -4513,6 +5678,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -4528,6 +5698,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626145.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4541,6 +5716,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629723.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4556,6 +5736,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629001.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4569,6 +5754,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4584,6 +5774,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629007.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -4597,6 +5792,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201229.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -4612,6 +5812,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -4626,6 +5831,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629139.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -4639,6 +5849,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -4746,6 +5961,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629734.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -4759,6 +5979,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203109.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -4774,6 +5999,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201609.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4787,6 +6017,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2617.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -4802,6 +6037,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629639.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -4815,6 +6055,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203524.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -4830,6 +6075,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2738.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -4843,6 +6093,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627884.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -4858,6 +6113,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203086.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -4871,6 +6131,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629134.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -4886,6 +6151,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629644.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -4899,6 +6169,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203482.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -4914,6 +6189,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629130.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -4928,6 +6208,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629735.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -4941,6 +6226,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629216.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5040,6 +6330,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203648.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -5053,6 +6348,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202339.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5068,6 +6368,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628425.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -5081,6 +6386,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626192.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5096,6 +6406,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628978.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -5109,6 +6424,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201588.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5124,6 +6444,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101141.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -5137,6 +6462,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2594.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -5152,6 +6482,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201572.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -5165,6 +6500,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201577.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -5180,6 +6520,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628412.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -5193,6 +6538,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202083.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5208,6 +6558,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629244.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -5222,6 +6577,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101107.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -5235,6 +6595,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628391.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -5334,6 +6699,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627736.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -5347,6 +6717,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629633.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -5362,6 +6737,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628980.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -5375,6 +6755,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627823.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -5390,6 +6775,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201949.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -5403,6 +6793,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627774.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -5418,6 +6813,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629103.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -5431,6 +6831,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629162.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5446,6 +6851,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629669.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -5459,6 +6869,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629006.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5474,6 +6889,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629675.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -5487,6 +6907,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5502,6 +6927,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629016.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -5515,6 +6945,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -5530,6 +6965,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202323.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -5543,6 +6983,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629020.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -5646,6 +7091,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629638.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -5659,6 +7109,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628366.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5674,6 +7129,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629597.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -5687,6 +7147,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202324.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -5702,6 +7167,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627982.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -5715,6 +7185,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5730,6 +7205,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629637.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -5743,6 +7223,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201950.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5758,6 +7243,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628402.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -5771,6 +7261,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629740.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -5786,6 +7281,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203121.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -5799,6 +7299,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202734.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5814,6 +7319,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626143.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -5827,6 +7337,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200755.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -5842,6 +7357,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628414.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -5856,6 +7376,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629026.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -5869,6 +7394,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -5976,6 +7506,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629628.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -5989,6 +7524,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629649.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -6004,6 +7544,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203493.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -6017,6 +7562,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628422.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6032,6 +7582,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201961.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -6045,6 +7600,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201959.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -6060,6 +7620,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203090.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -6073,6 +7638,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629607.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6088,6 +7658,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628995.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6101,6 +7676,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628373.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6116,6 +7696,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203901.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -6129,6 +7714,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629033.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -6144,6 +7734,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626171.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6157,6 +7752,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203944.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -6172,6 +7772,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629011.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -6186,6 +7791,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628372.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -6199,6 +7809,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629624.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -6306,6 +7921,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -6319,6 +7939,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629647.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -6334,6 +7959,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629126.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -6347,6 +7977,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628977.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6362,6 +7997,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629652.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -6375,6 +8015,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628390.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6390,6 +8035,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201568.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6403,6 +8053,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -6418,6 +8073,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628985.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -6431,6 +8091,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628987.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -6446,6 +8111,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -6459,6 +8129,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627846.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -6474,6 +8149,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203457.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -6487,6 +8167,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203460.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -6502,6 +8187,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629676.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6515,6 +8205,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203471.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6618,6 +8313,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202329.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6631,6 +8331,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201571.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6646,6 +8351,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628964.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -6659,6 +8369,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203920.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -6674,6 +8389,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203487.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -6687,6 +8407,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629109.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -6702,6 +8427,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203516.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6715,6 +8445,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203095.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -6730,6 +8465,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628982.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -6743,6 +8483,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6758,6 +8503,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6771,6 +8521,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628371.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -6786,6 +8541,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628411.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6799,6 +8559,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629168.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -6814,6 +8579,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629724.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6828,6 +8598,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203082.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -6841,6 +8616,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202696.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -6948,6 +8728,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629151.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -6961,6 +8746,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202692.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -6976,6 +8766,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202699.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -6989,6 +8784,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201143.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -7004,6 +8804,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627788.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -7017,6 +8822,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629003.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -7032,6 +8842,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203526.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7045,6 +8860,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203124.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -7060,6 +8880,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203658.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -7073,6 +8898,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626196.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -7088,6 +8918,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203922.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -7101,6 +8936,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203118.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7116,6 +8956,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629621.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -7130,6 +8975,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629015.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7143,6 +8993,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629680.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -7242,6 +9097,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629028.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -7255,6 +9115,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203382.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -7270,6 +9135,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -7283,6 +9153,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628975.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -7298,6 +9173,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627767.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -7311,6 +9191,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629660.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -7326,6 +9211,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629661.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -7339,6 +9229,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626163.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -7354,6 +9249,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629665.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7367,6 +9267,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629059.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -7382,6 +9287,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626162.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -7395,6 +9305,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629745.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7410,6 +9325,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626166.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7424,6 +9344,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201937.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7437,6 +9362,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203967.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7536,6 +9466,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629121.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7549,6 +9484,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2546.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7564,6 +9504,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2772.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -7577,6 +9522,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629650.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -7592,6 +9542,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628380.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -7605,6 +9560,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629117.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7620,6 +9580,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626209.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -7633,6 +9598,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629658.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7648,6 +9618,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203918.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -7661,6 +9636,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629642.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -7676,6 +9656,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203468.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7689,6 +9674,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203994.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -7704,6 +9694,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7717,6 +9712,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628403.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7732,6 +9732,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629018.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -7745,6 +9750,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202355.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -7848,6 +9858,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -7861,6 +9876,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203084.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7876,6 +9896,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203145.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -7889,6 +9914,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202357.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -7904,6 +9934,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203992.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7917,6 +9952,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201147.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -7932,6 +9972,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627812.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -7945,6 +9990,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -7960,6 +10010,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628385.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -7973,6 +10028,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629657.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -7988,6 +10048,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8001,6 +10066,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -8016,6 +10086,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629713.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -8029,6 +10104,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629610.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -8044,6 +10124,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202709.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8058,6 +10143,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203458.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -8071,6 +10161,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203953.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -8178,6 +10273,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200746.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -8191,6 +10291,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201158.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -8206,6 +10311,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -8219,6 +10329,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629234.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -8234,6 +10349,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627854.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8247,6 +10367,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200752.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
       }
     ]
   },
@@ -8262,6 +10387,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629640.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -8275,6 +10405,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626168.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -8290,6 +10425,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629002.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -8303,6 +10443,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201988.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -8318,6 +10463,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8331,6 +10481,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -8346,6 +10501,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629677.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -8359,6 +10519,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629022.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -8374,6 +10539,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629683.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8388,6 +10558,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8401,6 +10576,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203092.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -8508,6 +10688,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -8521,6 +10706,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628449.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
       }
     ]
   },
@@ -8536,6 +10726,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629052.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -8549,6 +10744,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629056.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -8564,6 +10764,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201188.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
+      }
     ]
   },
   {
@@ -8577,6 +10782,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629608.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -8592,6 +10802,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626178.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -8605,6 +10820,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201586.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -8620,6 +10840,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626169.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -8633,6 +10858,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627775.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -8648,6 +10878,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626259.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
+      }
     ]
   },
   {
@@ -8661,6 +10896,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -8676,6 +10916,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629744.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8690,6 +10935,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8703,6 +10953,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628778.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -8802,6 +11057,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202711.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -8815,6 +11075,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628396.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -8830,6 +11095,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629714.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -8843,6 +11113,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203903.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -8858,6 +11133,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8871,6 +11151,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202334.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
       }
     ]
   },
@@ -8886,6 +11171,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204060.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Guard"
+      }
     ]
   },
   {
@@ -8899,6 +11189,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629752.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -8914,6 +11209,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626144.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8927,6 +11227,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627777.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -8942,6 +11247,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626220.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -8955,6 +11265,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629671.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -8970,6 +11285,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629730.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8984,6 +11304,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628430.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -8997,6 +11322,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629625.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -9096,6 +11426,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203078.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -9109,6 +11444,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -9124,6 +11464,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629067.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -9137,6 +11482,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628972.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -9152,6 +11502,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628418.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -9165,6 +11520,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626170.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -9180,6 +11540,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629060.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
+      }
     ]
   },
   {
@@ -9193,6 +11558,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101133.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center"
       }
     ]
   },
@@ -9208,6 +11578,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629726.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -9221,6 +11596,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203894.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -9236,6 +11616,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628394.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Center-Forward"
+      }
     ]
   },
   {
@@ -9249,6 +11634,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627780.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
       }
     ]
   },
@@ -9264,6 +11654,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629010.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -9277,6 +11672,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629678.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard-Forward"
       }
     ]
   },
@@ -9292,6 +11692,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202397.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -9305,6 +11710,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627784.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -9320,6 +11730,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629021.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward-Center"
+      }
     ]
   },
   {
@@ -9334,6 +11749,11 @@
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202322.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
       }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Guard"
+      }
     ]
   },
   {
@@ -9347,6 +11767,11 @@
       {
         "contentLocation": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629140.png",
         "partyContentTypeEnumId": "PLAYER_PHOTO"
+      }
+    ],
+    "classifications": [
+      {
+        "partyClassificationId": "Forward"
       }
     ]
   },
@@ -9451,3 +11876,4 @@
     ]
   }
 ]
+

@@ -21,6 +21,7 @@
 
     <moqui.basic.Enumeration enumId="NBA_DIVISION" enumTypeId="PartyClassificationType" description="The division to which a Basquetball team from the NBA belongs"/>
     <moqui.basic.Enumeration enumId="NBA_CONFERENCE" enumTypeId="PartyClassificationType" description="The conference to which a Basquetball team from the NBA belongs"/>
+    <moqui.basic.Enumeration enumId="NBA_PLAYER_POSITION" enumTypeId="PartyClassificationType" description="The field position of a Basquetball player "/>
 
     <moqui.basic.Enumeration enumId="VOTED_FOR" enumTypeId="PartyRelationshipType" description="The team a user supported"/>
     <moqui.basic.Enumeration enumId="PLAYS_FOR" enumTypeId="PartyRelationshipType" description="The team for which the player plays"/>
@@ -35,6 +36,13 @@
     <mantle.party.PartyClassification partyClassificationId="Northwest" classificationTypeEnumId="NBA_DIVISION" />
     <mantle.party.PartyClassification partyClassificationId="Pacific" classificationTypeEnumId="NBA_DIVISION" />
     <mantle.party.PartyClassification partyClassificationId="Southwest" classificationTypeEnumId="NBA_DIVISION" />
+    <mantle.party.PartyClassification partyClassificationId="Center" classificationTypeEnumId="NBA_PLAYER_POSITION" />
+    <mantle.party.PartyClassification partyClassificationId="Center-Forward" classificationTypeEnumId="NBA_PLAYER_POSITION" />
+    <mantle.party.PartyClassification partyClassificationId="Forward" classificationTypeEnumId="NBA_PLAYER_POSITION" />
+    <mantle.party.PartyClassification partyClassificationId="Forward-Center" classificationTypeEnumId="NBA_PLAYER_POSITION" />
+    <mantle.party.PartyClassification partyClassificationId="Forward-Guard" classificationTypeEnumId="NBA_PLAYER_POSITION" />
+    <mantle.party.PartyClassification partyClassificationId="Guard" classificationTypeEnumId="NBA_PLAYER_POSITION" />
+    <mantle.party.PartyClassification partyClassificationId="Guard-Forward" classificationTypeEnumId="NBA_PLAYER_POSITION" />
 
 </entity-facade-xml>
 
