@@ -6,8 +6,8 @@
     <transition-include name="voteFor" location="component://chua-project/screen/sub-components/vote-form.xml"/>
     <transition-include name="commentOn" location="component://chua-project/screen/sub-components/comment-form.xml"/>
     <actions>
-      <set field="teamId" from="teamId" default-value="Lakers" />
-      <set field="partyId" from="teamId" default-value="Lakers" />
+      <set field="teamId" from="teamId" default-value="Atlanta Hawks" />
+      <set field="partyId" from="teamId" default-value="Atlanta Hawks" />
     </actions>
     <widgets>
         <!-- team data -->
