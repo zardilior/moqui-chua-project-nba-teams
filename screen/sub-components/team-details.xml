@@ -50,7 +50,7 @@
         <!-- team info -->
         <row-col xs="12" sm="6" md="6" lg="6">
           <label type="h3" text="${team ? team.organizationName : 'Team is null'}"/>
-          <label type="h6" text="${teamConference ? teamConference.partyClassificationId : 'no conference'} - ${teamDivision ? teamDivision.partyClassificationId : 'no division'}"/>
+          <label type="h6" text="${teamConference ? teamConference.partyClassificationId+' conference' : 'no conference'} - ${teamDivision ? teamDivision.partyClassificationId : 'no division'}"/>
           <label type="span" text=" ${teamVotes ? teamVotes : 0} " style="glyphicon glyphicon-heart"/>
         </row-col>
       </container-row>

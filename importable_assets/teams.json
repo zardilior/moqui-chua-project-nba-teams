@@ -1,0 +1,662 @@
+[
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Atlanta Hawks",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Atlanta Hawks"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southeast"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/ATL.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Boston Celtics",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Boston Celtics"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Atlantic"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/BOS.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Brooklyn Nets",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Brooklyn Nets"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Atlantic"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/BKN.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Charlotte Hornets",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Charlotte Hornets"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southeast"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/CHA.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Chicago Bulls",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Chicago Bulls"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Central"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/CHI.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Cleveland Cavaliers",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Cleveland Cavaliers"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Central"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/CLE.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Dallas Mavericks",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Dallas Mavericks"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/DAL.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Denver Nuggets",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Denver Nuggets"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Northwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/DEN.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Detroit Pistons",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Detroit Pistons"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Central"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/DET.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Golden State Warriors",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Golden State Warriors"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Pacific"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/GSW.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Houston Rockets",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Houston Rockets"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/HOU.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Indiana Pacers",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Indiana Pacers"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Central"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/IND.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "LA Clippers",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "LA Clippers"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Pacific"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/LAC.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Los Angeles Lakers",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Los Angeles Lakers"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Pacific"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/LAL.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Memphis Grizzlies",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Memphis Grizzlies"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/MEM.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Miami Heat",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Miami Heat"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southeast"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/MIA.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Milwaukee Bucks",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Milwaukee Bucks"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Central"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/MIL.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Minnesota Timberwolves",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Minnesota Timberwolves"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Northwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/MIN.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "New Orleans Pelicans",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "New Orleans Pelicans"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/NOP.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "New York Knicks",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "New York Knicks"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Atlantic"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/NYK.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Oklahoma City Thunder",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Oklahoma City Thunder"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Northwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/OKC.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Orlando Magic",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Orlando Magic"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southeast"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/ORL.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Philadelphia 76ers",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Philadelphia 76ers"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Atlantic"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/PHI.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Phoenix Suns",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Phoenix Suns"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Pacific"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/PHX.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Portland Trail Blazers",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Portland Trail Blazers"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Northwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/POR.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Sacramento Kings",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Sacramento Kings"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Pacific"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/SAC.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "San Antonio Spurs",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "San Antonio Spurs"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/SAS.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Toronto Raptors",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Toronto Raptors"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Atlantic"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/TOR.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Utah Jazz",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Utah Jazz"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Northwest"
+      },
+      {
+        "partyClassificationId": "West"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/UTA.svg"
+      }
+    ]
+  },
+  {
+    "partyTypeEnumId": "NBA_TEAM",
+    "partyId": "Washington Wizards",
+    "_entity": "mantle.party.Party",
+    "organization": {
+      "organizationName": "Washington Wizards"
+    },
+    "classifications": [
+      {
+        "partyClassificationId": "Southeast"
+      },
+      {
+        "partyClassificationId": "East"
+      }
+    ],
+    "contents": [
+      {
+        "partyContentTypeEnumId": "NBA_TEAM_LOGO",
+        "contentLocation": "https://www.nba.com/assets/logos/teams/primary/web/WAS.svg"
+      }
+    ]
+  }
+]

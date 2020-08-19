@@ -30,15 +30,20 @@
               url-type="plain" 
             />
             <label type="h6" text="${photo.partyId}" />
-            <container-dialog id="CreateTutorialDialog" button-text="Details">
-              <form-single name="playerInfo">
-                <field name="testField">
-                  <default-field title="Test field">
-                    <text-line size="30"/>
-                  </default-field>
-                </field>
-              </form-single>
-            </container-dialog>
+            <dynamic-dialog id="CreateTutorialDialog" button-text="Details" parameter-map="[partyId:photo.partyId]">
+              <!--- parameter partyId -->
+              <include-screen location="component://chua-project/screens/sub-components/player-details.xml"/>
+              <section>
+                <actions>
+                  <entity-find entity-name="">
+                    <econdition field-name="partyId" from="partyId"/>
+                  </entity-find>
+                </actions>
+                <widgets>
+
+                </widgets>
+              </section>
+            </dynamic-dialog>
           </container>
         </widgets>
       </section-iterate>
