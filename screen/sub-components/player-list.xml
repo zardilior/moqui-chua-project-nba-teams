@@ -22,31 +22,47 @@
     <widgets>
       <label type="h3" text="Players" />
       <section-iterate name="player-portrait" list="photoList" entry="photo" condition="photoList" paginate="true">
+        <actions>
+          <set field="partyId" from="photo.partyId" />
+        </actions>
         <widgets>
-          <container style="col-xs-6 col-sm-4 col-lg-3 player-portrait">
+          <container style="col-xs-6 col-sm-4 col-lg-3 ">
             <image
-              style="img-responsive"
-              url="${photo.contentLocation}"
-              url-type="plain" 
+                    style="img-responsive"
+                    url="${photo.contentLocation}"
+                    url-type="plain"
             />
             <label type="h6" text="${photo.partyId}" />
-            <dynamic-dialog id="CreateTutorialDialog" button-text="Details" parameter-map="[partyId:photo.partyId]">
-              <!--- parameter partyId -->
-              <include-screen location="component://chua-project/screens/sub-components/player-details.xml"/>
-              <section>
-                <actions>
-                  <entity-find entity-name="">
-                    <econdition field-name="partyId" from="partyId"/>
-                  </entity-find>
-                </actions>
-                <widgets>
-
-                </widgets>
-              </section>
-            </dynamic-dialog>
+            <include-screen location="component://chua-project/screen/sub-components/player-details.xml" />
           </container>
         </widgets>
       </section-iterate>
+<!--      <section-iterate name="player-portrait" list="photoList" entry="photo" condition="photoList" paginate="true">-->
+<!--        <widgets>-->
+<!--          <container style="col-xs-6 col-sm-4 col-lg-3 player-portrait">-->
+<!--            <image-->
+<!--              style="img-responsive"-->
+<!--              url="${photo.contentLocation}"-->
+<!--              url-type="plain" -->
+<!--            />-->
+<!--            <label type="h6" text="${photo.partyId}" />-->
+<!--            <dynamic-dialog id="CreateTutorialDialog" button-text="Details" parameter-map="[partyId:photo.partyId]">-->
+<!--              &lt;!&ndash;- parameter partyId &ndash;&gt;-->
+<!--              <include-screen location="component://chua-project/screens/sub-components/player-details.xml"/>-->
+<!--              <section>-->
+<!--                <actions>-->
+<!--                  <entity-find entity-name="">-->
+<!--                    <econdition field-name="partyId" from="partyId"/>-->
+<!--                  </entity-find>-->
+<!--                </actions>-->
+<!--                <widgets>-->
+
+<!--                </widgets>-->
+<!--              </section>-->
+<!--            </dynamic-dialog>-->
+<!--          </container>-->
+<!--        </widgets>-->
+<!--      </section-iterate>-->
       <section name="no-player-message" condition="photoList ? photoList.size()==0 : true" paginate="true">
         <widgets>
           <label type="h4" text="No Players at this team yet :(" />
