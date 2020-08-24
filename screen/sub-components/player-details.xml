@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+        xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+
+<!--    <actions>-->
+<!--      <set field="teamId" from="teamId" default-value="Lakers" />-->
+<!--    </actions>-->
+
+    <parameter name="teamId"/>
+    <parameter name="partyId"/>
+
+    <actions>
+        <!-- Height -->
+        <entity-find entity-name="mantle.party.PartyDimension" list="heightList">
+            <econdition field-name="uomDimensionTypeId" value="Height"/>
+            <econdition field-name="partyId" from="partyId"/>
+        </entity-find>
+        <!-- Weight -->
+        <entity-find entity-name="mantle.party.PartyDimension" list="weightList">
+            <econdition field-name="uomDimensionTypeId" value="Weight"/>
+            <econdition field-name="partyId" from="partyId"/>
+        </entity-find>
+        <!-- Position -->
+        <entity-find entity-name="mantle.party.PartyClassificationAndAppl" list="positionList">
+            <econdition field-name="classificationTypeEnumId" value="NBA_PLAYER_POSITION"/>
+            <econdition field-name="partyId" from="partyId"/>
+        </entity-find>
+    </actions>
+    <widgets>
+        <container-dialog id="CreateTutorialDialog" button-text="Details">
+            <section>
+                <widgets>
+                    <container>
+                        <image
+                                style="img-responsive center-block"
+                                url="${photo.contentLocation}"
+                                url-type="plain"
+                        />
+                        <label type="h3" text="${photo.partyId}" style="text-center" />
+                    </container>
+                </widgets>
+            </section>
+            <container-row>
+                <row-col xs="0" sm="1" md="1" lg="2">
+                </row-col>
+                <row-col xs="12" sm="10" md="10" lg="8">
+                    <container-row>
+                        <row-col xs="12" sm="6" md="6" lg="6">
+                            <label style="inline-block" type="h4" text="Team: ${teamId}" />
+                            <label style="inline-block" type="h4" text="Height: ${heightList[0].value} In." />
+                            <label style="inline-block" type="h4" text="Weight: ${weightList[0].value} Lbs." />
+                        </row-col>
+                        <row-col xs="12" sm="6" md="6" lg="6">
+                            <label style="inline-block" type="h4" text="Position: ${positionList[0].partyClassificationId}" />
+                            <label style="inline-block" type="h4" text="Age: 28" />
+                            <label style="inline-block" type="h4" text="Born: Denver, CO" />
+                        </row-col>
+                    </container-row>
+                </row-col>
+                <row-col xs="0" sm="1" md="1" lg="2">
+                </row-col>
+            </container-row>
+        </container-dialog>
+    </widgets>
+</screen>
