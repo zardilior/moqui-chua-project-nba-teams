@@ -40,4 +40,40 @@
           </if>
         </actions>
     </service>
+    <service verb="load" noun="Data" allow-remote="true" authenticate="anonymous-all">
+      <in-parameters>
+        <parameter name="url" type="java.lang.String" required="true"/>
+        <parameter name="port" type="Integer" required="true"/>
+        <parameter name="path" type="java.lang.String" required="true"/>
+      </in-parameters>
+      <out-parameters>
+        <parameter name="answer" />
+        <parameter name="statusCode" />
+        <parameter name="jsonText" />
+      </out-parameters>
+      <actions><script><![CDATA[
+         org.moqui.util.RestClient restClient = ec.service.rest().method(org.moqui.util.RestClient.POST)
+              .addHeader("Content-Type", "application/json").jsonObject(requestMap)
+
+          restClient.uri().protocol("http").host(url).port(port).path(path).build()
+
+          org.moqui.util.RestClient.RestResponse restResponse = restClient.call()
+
+          statusCode = restResponse.statusCode
+          if (restResponse.statusCode < 200 || restResponse.statusCode >= 500) {
+              ec.message.addMessage("Error retrieving information")
+              answer = getReasonPhrase();
+              return
+          }
+          jsonText = restResponse.text()
+
+          org.moqui.entity.EntityDataLoader edl = ec.entity.makeDataLoader()
+          edl.jsonText(jsonText)
+
+          List<String> messages = new LinkedList<>()
+          long recordsLoaded = edl.load(messages)
+          ec.message.addMessage("Loaded ${recordsLoaded} records")
+          answer = messages
+      ]]></script></actions>
+    </service>
 </services>

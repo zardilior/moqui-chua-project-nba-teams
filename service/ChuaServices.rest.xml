@@ -1,0 +1,13 @@
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/rest-api-2.1.xsd"
+  name="chua" displayName="Chua REST API" version="${moqui_version}"
+  description="Service to load information">
+
+  <resource name="loadData" description="Used for loading data from the scrapper"> 
+    <resource name="loadData">
+      <method type="post">
+        <service name="ChuaServices.load#Data"/>
+      </method>
+    </resource>
+  </resource>
+</resource>
+
