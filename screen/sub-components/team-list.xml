@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+        xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+    <parameter name="teamid"/>
+    <actions>
+        <entity-find entity-name="mantle.party.PartyContent" list="photoList">
+            <econdition field-name="partyContentTypeEnumId" value="NBA_TEAM_LOGO"/>
+        </entity-find>
+    </actions>
+    <widgets>
+        <label type="h1" text="Teams" />
+        <section-iterate name="player-portrait" list="photoList" entry="photo" condition="photoList" paginate="true">
+            <widgets>
+                <container style="col-xs-6 col-sm-4 col-lg-3 team-portrait">
+                    <image
+                            style="img-responsive"
+                            url="${photo.contentLocation}"
+                            url-type="plain"
+                    />
+<!--                    <label type="h6" text="${photo.partyId}" />-->
+                    <container><link url="../team-details?teamId=${photo.partyId}" text="${photo.partyId}" type="danger"/></container>
+<!--                    <label type="h6" text=""/>-->
+                </container>
+            </widgets>
+        </section-iterate>
+        <section name="no-player-message" condition="photoList ? photoList.size()==0 : true" paginate="true">
+            <widgets>
+                <label type="h4" text="No Players at this team yet :(" />
+            </widgets>
+        </section>
+    </widgets>
+</screen>

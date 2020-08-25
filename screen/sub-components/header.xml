@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+    <widgets>
+        <container-row style="panel panel-default">
+            <!-- logo -->
+            <row-col xs="6" sm="6" md="6" lg="6">
+                <link url="../home">
+                <image
+                        style="img-responsive"
+                        url="https://www.nba.com/assets/amp/include/images/nba-logo.png"
+                        url-type="plain"
+                /></link>
+            </row-col>
+            <!-- team info -->
+            <row-col xs="12" sm="6" md="6" lg="6">
+                <label type="h1" text="The Chua Project"/>
+            </row-col>
+        </container-row>
+    </widgets>
+</screen>

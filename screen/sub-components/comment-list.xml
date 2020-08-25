@@ -17,22 +17,22 @@
       </entity-find>
     </actions>
     <widgets>
-      <label type="h3" text="Comments"/>
+      <label type="h2" text="Comments"/>
       <section-iterate name="comments-list" list="commentsList" entry="comment" condition="commentsList">
         <actions>
           .<set field="commentAuthor" from="comment.UserAccount ? comment.UserAccount.username : 'Anonymous'" />
         </actions>
         <widgets>
-          <container style="panel panel-default">
-            <label type="span" text=" ${commentAuthor} - "/>
-            <label type="span" text=" ${comment.partyRating} " style="glyphicon glyphicon-star"/>
-            <label type="h6" text="${comment.partyReview}"/>
+          <container style="row shaded-area">
+            <label type="h3" text=" ${commentAuthor} "/>
+<!--            <label type="span" text=" ${comment.partyRating} " style="glyphicon glyphicon-star"/>-->
+            <label type="h5" text="${comment.partyReview}"/>
           </container>
         </widgets>
       </section-iterate>
       <section name="no-player-message" condition="commentsList ? commentsList.size()==0 : true" paginate="true">
         <widgets>
-          <label type="h4" text="No Comments for this team yet :(" />
+          <label type="h6" text="0 Comments" />
         </widgets>
       </section>
     </widgets>
