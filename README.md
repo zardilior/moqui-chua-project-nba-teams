@@ -14,14 +14,11 @@ While having your java jdk8 setup and your JAVA_HOME
 ```
 git clone https://github.com/moqui/moqui-framework.git
 cd moqui-framework
-./gradlew getComponent=mantle-udm
-./gradlew getComponent=mantle-usl
+./gradlew getRuntime
 cd runtime/component
 git clone https://github.com/zardilior/chua-project
-```
-Go back to the root of the project
-```
 cd ../../
+./gradlew getDepends
 ```
 Now that the setup is done, just load data and run
 ```
