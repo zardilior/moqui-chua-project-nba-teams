@@ -32,7 +32,7 @@ We made this project to easen the burden of learning moqui, and to practice. You
   + check  
      - chua+project/screen/sub+components/ 
      - chua+project/screen/chua+project/
-- XML+actions 
+- XML-actions 
     + entity+finds and even some "Joins"
     + checking if someone is logged in or not
     + check  
@@ -55,7 +55,7 @@ We made this project to easen the burden of learning moqui, and to practice. You
     + Voting and commenting
     + check
         - chua+project/services
-- FTL 
+- Applying FTL 
     + Used in our navbar, login and registration components
     + check  
        - chua+project/screen/chua+project/includes
