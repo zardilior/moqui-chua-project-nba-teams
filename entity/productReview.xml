@@ -26,7 +26,6 @@
           <moqui.basic.StatusFlowTransition statusFlowId="Default" statusId="PrvwApproved" toStatusId="PrvwDeleted" transitionName="Review Deleted"/>
       </seed-data>
       -->
-      <!-- hello there! testttt -->
   </entity>
 </entities>
 

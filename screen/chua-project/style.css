@@ -3,10 +3,7 @@
   z-index:2000 
 } 
 .player-portrait {
-  height:160px;
   vertical-align:bottom;
-  height: 160px;
-  vertical-align: bottom;
   display: flex;
   flex-direction: column;
   align-items: center;
