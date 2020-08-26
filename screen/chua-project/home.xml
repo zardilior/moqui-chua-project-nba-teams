@@ -10,25 +10,12 @@
         <set field="partyId" from="teamId" default-value="Atlanta Hawks" />
     </actions>
     <widgets>
-        <!-- team data -->
-        <container-row>
-            <row-col xs="1" sm="1" md="1" lg="2">
-          </row-col>
-          <!-- team data content-->
-          <row-col xs="6" sm="6" md="6" lg="8">
-            <include-screen location="component://chua-project/screen/sub-components/header.xml"/>
-          </row-col>
-          <row-col xs="0" sm="3" md="3" lg="4">
-          </row-col>
-        </container-row>
-        <!-- main content, players and comments -->
         <container-row>
           <row-col xs="0" sm="1" md="1" lg="2">
           </row-col>
           <!-- main content - body -->
           <row-col xs="12" sm="10" md="10" lg="8">
             <container-row>
-              <!-- players list -->
               <row-col xs="12" sm="12" md="12" lg="12" style="panel panel-default">
                 <include-screen location="component://chua-project/screen/sub-components/team-list.xml"/>
 
