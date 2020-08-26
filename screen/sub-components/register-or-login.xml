@@ -3,10 +3,6 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <parameter name="teamid"/>
-    <transition-include name="changePassword" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
-    <transition-include name="resetPassword" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
-    <transition-include name="createUser" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
-    <transition-include name="login" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
     <actions>
       <set field="isAuthenticated" from="ec.user.userId ? true : false" />
     </actions>

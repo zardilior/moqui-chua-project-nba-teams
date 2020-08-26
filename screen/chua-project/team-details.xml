@@ -3,8 +3,14 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <parameter name="teamId"/>
+    <!-- actions on the bottom bar -->
     <transition-include name="voteFor" location="component://chua-project/screen/sub-components/vote-form.xml"/>
     <transition-include name="commentOn" location="component://chua-project/screen/sub-components/comment-form.xml"/>
+    <!-- login, register related-->
+    <transition-include name="changePassword" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
+    <transition-include name="resetPassword" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
+    <transition-include name="createUser" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
+    <transition-include name="login" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
     <actions>
       <set field="teamId" from="teamId" default-value="Atlanta Hawks" />
       <set field="partyId" from="teamId" default-value="Atlanta Hawks" />

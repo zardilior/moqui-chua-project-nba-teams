@@ -14,7 +14,7 @@
     </div>
     <div id="signup" class="tab-pane">
         <form method="post" action="${sri.buildUrl("createUser").url}" class="form-signin" id="create_form">
-            <div class="loginHeading"><h4 class="text-muted text-center ">${ec.l10n.localize("Don't have a Chua Project account? Don't worry! It's free and easy.")}</h4></div>
+            <div class="loginHeading"><p class="text-muted text-center ">${ec.l10n.localize("Don't have a Chua Project account? Don't worry! It's free and easy.")}</p></div>
             <input type="hidden" name="moquiSessionToken" value="${ec.web.sessionToken}">
             <input type="text" name="username" placeholder="${ec.l10n.localize("Username")}" required="required" class="form-control loginInput">
             <input type="email" name="emailAddress" placeholder="${ec.l10n.localize("Email Address")}" required="required" class="form-control loginInput">

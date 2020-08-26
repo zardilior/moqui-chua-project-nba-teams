@@ -16,22 +16,31 @@
         <order-by field-name="-dimensionDate"/>
         <limit size="1" start="0" />
       </entity-find>
-      <set field="latestDate" from="latestDate[0].dimensionDate" />
-      <entity-find entity-name="mantle.party.PartyDimension" list="partyDimensionList">
-        <econdition field-name="partyId" operator="in" from="partyClassificationsList.partyId"/> 
-        <econdition field-name="uomDimensionTypeId" value="GamesWon"/> 
-        <econdition field-name="dimensionDate" from="latestDate"/> 
-        <order-by field-name="-value"/>
-      </entity-find>
-      <set field="photoContentLocationMap" from="[:]" />
-      <iterate list="partyContentList" entry="partyContent">
-        <set field="photoContentLocationMap[partyContent.partyId]" from="partyContent.contentLocation" />
-      </iterate>
+      <if condition="latestDate.size()!=0">
+        <set field="latestDate" from="latestDate[0].dimensionDate" />
+        <entity-find entity-name="mantle.party.PartyDimension" list="partyDimensionList">
+          <econdition field-name="partyId" operator="in" from="partyClassificationsList.partyId"/> 
+          <econdition field-name="uomDimensionTypeId" value="GamesWon"/> 
+          <econdition field-name="dimensionDate" from="latestDate"/> 
+          <order-by field-name="-value"/>
+        </entity-find>
+        <set field="photoContentLocationMap" from="[:]" />
+        <iterate list="partyContentList" entry="partyContent">
+          <set field="photoContentLocationMap[partyContent.partyId]" from="partyContent.contentLocation" />
+        </iterate>
+      </if>
     </actions>
     <widgets>
-      <label type="h2" text="${conference} Conference"/>
-        <section-iterate list="partyDimensionList" entry="partyDimension">
-          <widgets>
+      <section name="no-standings-message" condition="playerDimensionList ? playerDimensionList.size()==0 : true">
+        <widgets>
+          <label type="h3" text="Standings haven't been loaded yet" />
+        </widgets>
+      </section>
+      <section name="standings-list" condition="playerDimensionList ? playerDimensionList.size()>0 : false">
+        <widgets>
+          <label type="h2" text="${conference} Conference"/>
+          <section-iterate list="partyDimensionList" entry="partyDimension">
+            <widgets>
                 <container style="panel panel-default text-center">
                   <image
                     style="img-responsive margin-auto"
@@ -42,7 +51,9 @@
                 <label type="h6" text="Won Games : ${partyDimension.value}"/>
                 <link  url="../team-details?teamId=${partyDimension.partyId}" text="See Details"/>
               </container>
-          </widgets>
-        </section-iterate>
+            </widgets>
+          </section-iterate>
+        </widgets>
+      </section>
     </widgets>
 </screen>
