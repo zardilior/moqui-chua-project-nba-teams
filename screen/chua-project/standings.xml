@@ -4,7 +4,9 @@
         require-authentication="anonymous-all">
     <widgets>
       <container-row>
-        <row-col xs="12" sm="6">
+        <row-col xs="0" sm="1" md="2">
+        </row-col>
+        <row-col xs="12" sm="5" md="4">
           <section name="eastConferenceStandings">
             <actions>
               <set field="conference" value="East" />
@@ -14,7 +16,7 @@
             </widgets>
           </section>
         </row-col>
-        <row-col xs="12" sm="6">
+        <row-col xs="12" sm="5" md="4">
           <section name="westConferenceStandings">
             <actions>
               <set field="conference" value="West" />
@@ -23,6 +25,8 @@
               <include-screen location="component://chua-project/screen/sub-components/team-list-standings.xml"/>
             </widgets>
           </section>
+        </row-col>
+        <row-col xs="0" sm="1" md="2">
         </row-col>
       </container-row>
     </widgets>

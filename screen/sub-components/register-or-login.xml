@@ -3,21 +3,17 @@
         xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="anonymous-all">
     <parameter name="teamid"/>
+    <transition-include name="changePassword" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
+    <transition-include name="resetPassword" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
+    <transition-include name="createUser" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
+    <transition-include name="login" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
     <actions>
       <set field="isAuthenticated" from="ec.user.userId ? true : false" />
     </actions>
     <widgets>
       <section name="login-or-register" condition="!isAuthenticated"> 
         <widgets>
-          <label type="h2" text="You need to be authenticated" />
-          <container-row>
-            <row-col xs="6">
-              <label type="h3" text="Register Section (TBD)" />
-            </row-col>
-            <row-col xs="6">
-              <label type="h3" text="Login Section (TBD)" />
-            </row-col>
-          </container-row>
+          <include-screen location="component://chua-project/screen/chua-project/LoginForm.xml"/>
         </widgets>
       </section> 
     </widgets>

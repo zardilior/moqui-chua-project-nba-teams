@@ -17,7 +17,7 @@
     <div id="navbarContent" class="collapse navbar-collapse navbar-ex1-collapse">
         <div class="navbar-left">
             <a class="leftNavBtns" class="" href="/">HOME</a>
-            <a class="leftNavBtns">TEAMS</a>
+            <a class="leftNavBtns" href="standings">STANDINGS</a>
         </div>
         <#if ec.user.userId??>
             <div class="navbar-right">

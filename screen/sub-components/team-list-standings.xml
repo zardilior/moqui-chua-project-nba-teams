@@ -24,15 +24,16 @@
       <label type="h2" text="${conference} Conference"/>
         <section-iterate list="partyDimensionList" entry="partyDimension">
           <widgets>
-            <container style="panel panel-default text-center">
-              <image
-                style="img-responsive"
-                url="${photoContentLocationMap[partyDimension.partyId] }"
-                url-type="plain" 
-              />
-              <label type="h3" text="${partyDimension.partyId}"/>
-              <label type="h6" text="Won Games : ${partyDimension.value}"/>
-            </container>
+                <container style="panel panel-default text-center">
+                  <image
+                    style="img-responsive margin-auto"
+                    url="${photoContentLocationMap[partyDimension.partyId] }"
+                    url-type="plain" 
+                  />
+                <label type="h3" text="${partyDimension.partyId}"/>
+                <label type="h6" text="Won Games : ${partyDimension.value}"/>
+                <link  url="../team-details?teamId=${partyDimension.partyId}" text="See Details"/>
+              </container>
           </widgets>
         </section-iterate>
     </widgets>

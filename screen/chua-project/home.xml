@@ -18,7 +18,6 @@
             <container-row>
               <row-col xs="12" sm="12" md="12" lg="12" style="panel panel-default">
                 <include-screen location="component://chua-project/screen/sub-components/team-list.xml"/>
-
               </row-col>
             </container-row>
           </row-col>
