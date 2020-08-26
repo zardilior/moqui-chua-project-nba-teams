@@ -10,9 +10,17 @@
       <entity-find entity-name="mantle.party.PartyContent" list="partyContentList">
         <econdition field-name="partyId" operator="in" from="partyClassificationsList.partyId"/> 
       </entity-find>
+      <entity-find entity-name="mantle.party.PartyDimension" list="latestDate">
+        <econdition field-name="partyId" operator="in" from="partyClassificationsList.partyId"/> 
+        <econdition field-name="uomDimensionTypeId" value="GamesWon"/> 
+        <order-by field-name="-dimensionDate"/>
+        <limit size="1" start="0" />
+      </entity-find>
+      <set field="latestDate" from="latestDate[0].dimensionDate" />
       <entity-find entity-name="mantle.party.PartyDimension" list="partyDimensionList">
         <econdition field-name="partyId" operator="in" from="partyClassificationsList.partyId"/> 
         <econdition field-name="uomDimensionTypeId" value="GamesWon"/> 
+        <econdition field-name="dimensionDate" from="latestDate"/> 
         <order-by field-name="-value"/>
       </entity-find>
       <set field="photoContentLocationMap" from="[:]" />
