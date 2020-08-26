@@ -44,5 +44,7 @@
     <mantle.party.PartyClassification partyClassificationId="Guard" classificationTypeEnumId="NBA_PLAYER_POSITION" />
     <mantle.party.PartyClassification partyClassificationId="Guard-Forward" classificationTypeEnumId="NBA_PLAYER_POSITION" />
 
+    <moqui.basic.UomDimensionType description="Games won"  uomDimensionTypeId="GamesWon" uomTypeEnumId="UT_OTHER_MEASURE"/>
+
 </entity-facade-xml>
 

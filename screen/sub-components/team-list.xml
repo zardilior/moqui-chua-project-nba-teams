@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+        xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+    <parameter name="conference"/>
+    <actions>
+      <entity-find entity-name="mantle.party.PartyClassificationAndAppl" list="partyClassificationsList">
+        <econdition field-name="partyClassificationId" from="conference"/> 
+      </entity-find>
+      <entity-find entity-name="mantle.party.PartyContent" list="partyContentList">
+        <econdition field-name="partyId" operator="in" from="partyClassificationsList.partyId"/> 
+      </entity-find>
+      <entity-find entity-name="mantle.party.PartyDimension" list="partyDimensionList">
+        <econdition field-name="partyId" operator="in" from="partyClassificationsList.partyId"/> 
+        <econdition field-name="uomDimensionTypeId" value="GamesWon"/> 
+        <order-by field-name="-value"/>
+      </entity-find>
+      <set field="photoContentLocationMap" from="[:]" />
+      <iterate list="partyContentList" entry="partyContent">
+        <set field="photoContentLocationMap[partyContent.partyId]" from="partyContent.contentLocation" />
+      </iterate>
+    </actions>
+    <widgets>
+      <label type="h2" text="${conference} Conference"/>
+        <section-iterate list="partyDimensionList" entry="partyDimension">
+          <widgets>
+            <container style="panel panel-default text-center">
+              <image
+                style="img-responsive"
+                url="${photoContentLocationMap[partyDimension.partyId] }"
+                url-type="plain" 
+              />
+              <label type="h3" text="${partyDimension.partyId}"/>
+              <label type="h6" text="Won Games : ${partyDimension.value}"/>
+            </container>
+          </widgets>
+        </section-iterate>
+    </widgets>
+</screen>
