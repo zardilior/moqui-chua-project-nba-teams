@@ -10,7 +10,7 @@
               <set field="conference" value="East" />
             </actions>
             <widgets>
-              <include-screen location="component://chua-project/screen/sub-components/team-list.xml"/>
+              <include-screen location="component://chua-project/screen/sub-components/team-list-standings.xml"/>
             </widgets>
           </section>
         </row-col>
@@ -20,7 +20,7 @@
               <set field="conference" value="West" />
             </actions>
             <widgets>
-              <include-screen location="component://chua-project/screen/sub-components/team-list.xml"/>
+              <include-screen location="component://chua-project/screen/sub-components/team-list-standings.xml"/>
             </widgets>
           </section>
         </row-col>

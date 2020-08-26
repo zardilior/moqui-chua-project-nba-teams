@@ -25,7 +25,7 @@
       <parameters parameterName="path" parameterValue="teams-with-players.import.part4.json"/>
   </moqui.service.job.ServiceJob>
   <moqui.service.job.ServiceJob jobName="LoadStandings" description="Loads the first 400 records"
-    serviceName="ChuaServices.load#Data" cronExpression="* */5 * * * ?" paused="N">
+    serviceName="ChuaServices.load#Data" cronExpression="* */5 * * * ?" paused="Y">
       <parameters parameterName="url" parameterValue="localhost"/>
       <parameters parameterName="port" parameterValue="3000"/>
       <parameters parameterName="path" parameterValue="games-won.import.json"/>
