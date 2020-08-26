@@ -18,6 +18,10 @@ git clone https://github.com/moqui/moqui-framework.git
 cd runtime/component
 git clone https://github.com/zardilior/chua-project
 ```
+Go back to the root of the project
+```
+cd ../../
+```
 Now that the setup is done, just load data and run
 ```
 ./gradlew cleanAll build load run
