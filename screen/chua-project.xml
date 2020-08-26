@@ -3,6 +3,13 @@
         xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
         require-authentication="false">
     <subscreens default-item="team-details"/>
+    <transition name="logout">
+        <actions>
+            <script>ec.user.logoutUser()</script>
+        </actions>
+        <default-response url="."/>
+        <error-response url="."/>
+    </transition>
     <!--- COPIED FROM ../../base-component/webroot/screen/webroot/apps.xml to get container dialogs-->
     <pre-actions><script><![CDATA[
         // jQuery, Bootstrap, Twitter TypeAhead, Form Validation (jquery-validate), Date/Time (Moment, bootstrap-datetimepicker),
@@ -24,6 +31,13 @@
         html_stylesheets.add('/style.css')
     ]]></script></pre-actions>
     <widgets>
+        <render-mode><text type="html,vuet" location="component://chua-project/screen/chua-project/includes/header.ftl" no-boundary-comment="true"/></render-mode>
+        <section name="TopNavSection" condition="hideNav != 'true'"><widgets>
+            <container id="top">
+                <render-mode><text type="html" location="component://chua-project/screen/chua-project/includes/navbar.ftl"/></render-mode>
+            </container>
+        </widgets></section>
+
         <!--- COPIED FROM ../../base-component/webroot/screen/webroot/apps.xml to get notifications-->
         <render-mode><text type="html"><![CDATA[<script>var notificationClient = new moqui.NotificationClient((location.protocol === 'https:' ? 'wss' : 'ws') + "://${ec.web.getHostName(true)}${ec.web.servletContext.contextPath}/notws");</script>]]></text></render-mode>
         <container id="content"><container style="inner"><container style="container-fluid">

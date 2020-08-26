@@ -1,0 +1,31 @@
+/* navbar styling */
+
+body.dev #top nav { border: none; box-shadow: 0 4px 2px -2px rgba(0,0,0,.2); }
+#navBar .container-fluid { width: 90%; }
+#navbarContent { margin-top: 17px; }
+#brand a img { width: 23px; height: 45px; margin-top: -12px; }
+#brand p { font-family: 'Calistoga', cursive; color: #c80f2d; font-size: 22px; }
+.navbar-right .dropdown-menu { right: 50px;}
+.dropdown-menu li a { font-family: 'Poppins', sans-serif; }
+.centerNav { position: absolute; left: 50%; margin-left: -85px !important; }
+.leftNavBtns, .accountBtn { color: white; padding: 0px 15px; font-size: 16px; font-family: 'Poppins', sans-serif; }
+.leftNavBtns:hover, .accountBtn:hover { text-decoration: none; padding-bottom: 7.5px; border-bottom: 4px white solid; color: white; cursor: pointer; }
+.userIcon { margin-left: 3px; }
+@media only screen and (max-width: 770px) { #brand p { display: none; } .centerNav { position: absolute; left: 5%; margin-left: 0 !important; } }
+
+/* Login/Registration Styling */
+
+#loginContent { margin-top: 15vh; }
+#login_form, #change_form, #create_form, #reset_form { background-color: #ececec; border-radius: 10px; padding: 15px 25px; box-shadow: 5px 5px #eae2e2; width: 400px;}
+.loginHeading { margin-bottom: 35px; }
+#loginTitle { font-family: 'Calistoga', cursive; letter-spacing: 1px; color: #cf112b; margin-top: 15px;}
+#loginSubHeading { font-size: 15px; }
+.loginInput { margin: 4px auto; border-radius:5px; background-color: white !important; }
+#login_form .btn, #create_form .btn { margin-top: 5px; margin-bottom: 10px; color: white; background: #24428a; font-weight: 500; letter-spacing: 1px; }
+#change_form .loginHeading, #create_form .loginHeading { margin-top: 20px; }
+#change_form .btn, #reset_form .btn { margin-top: 5px; margin-bottom: 10px; font-weight: 500; letter-spacing: 1px; background-color: #c8152e; }
+.changeFormBottom { padding: 0 10px; }
+.split { margin: 0px 10px; font-weight: 900; color: #bfbaba; font-size: 18px; }
+#loginContent a { font-weight: 900; font-size: 15px;}
+.belowForm { margin-top: 15px; }
+.belowForm a { margin-left: 5px; }
