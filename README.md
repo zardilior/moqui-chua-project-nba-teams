@@ -17,7 +17,9 @@ cd moqui-framework
 ./gradlew getRuntime
 cd runtime/component
 git clone https://github.com/zardilior/chua-project
-cd ../../
+cd chua-project
+git checkout 1.0
+cd ../../../
 ./gradlew getDepends
 ```
 Now that the setup is done, just load data and run
