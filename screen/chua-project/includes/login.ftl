@@ -22,7 +22,7 @@
             <input type="password" name="newPasswordVerify" placeholder="${ec.l10n.localize("New Password Verify")}" required="required" class="form-control loginInput">
             <button class="btn btn-lg btn-block" type="submit">${ec.l10n.localize("Sign Up")}</button>
         </form>
-        <div class="text-center belowForm"><span>Already have an account? <a class="" href="#login" data-toggle="tab">${ec.l10n.localize("Sign In!")}</a></span></div>
+        <div class="text-center belowForm"><span>Already have an account? <a href="#login" data-toggle="tab">${ec.l10n.localize("Sign In!")}</a></span></div>
     </div>
     <div id="reset" class="tab-pane">
         <form method="post" action="${sri.buildUrl("resetPassword").url}" class="form-signin" id="reset_form">
