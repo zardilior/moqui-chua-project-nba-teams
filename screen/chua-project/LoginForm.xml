@@ -25,7 +25,7 @@
         <render-mode>
             <text type="html" location="component://chua-project/screen/chua-project/includes/header.ftl" no-boundary-comment="true"/>
         </render-mode>
-        <container id="content" style="Login">
+        <container id="content" style="Login loginPage">
             <container style="inner">
                 <container style="container-fluid">
                     <render-mode><text type="html,vuet" template="true" location="component://chua-project/screen/chua-project/includes/login.ftl"/></render-mode>

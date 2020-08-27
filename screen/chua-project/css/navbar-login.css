@@ -15,7 +15,7 @@ body.dev #top nav { border: none; box-shadow: 0 4px 2px -2px rgba(0,0,0,.2); }
 
 /* Login/Registration Styling */
 
-#loginContent { margin-top: 15vh; }
+.loginPage { margin-top: 15vh; }
 #login_form, #change_form, #create_form, #reset_form { background-color: #ececec; border-radius: 10px; padding: 15px 25px; box-shadow: 5px 5px #eae2e2; width: 400px;}
 .loginHeading { margin-bottom: 35px; }
 #loginTitle { font-family: 'Calistoga', cursive; letter-spacing: 1px; color: #cf112b; margin-top: 15px;}

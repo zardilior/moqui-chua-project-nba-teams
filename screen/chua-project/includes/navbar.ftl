@@ -9,14 +9,14 @@
         </button>
         <div class="centerNav">
           <div id="brand">
-            <a href="${sri.buildUrl("#").getUrl()}" class="navbar-brand"><img src="/images/nba-logo.png" alt="Home"></a>
-            <p class="navbar-brand">Chua Project</p>
+            <a href="${sri.buildUrl("/m/home").getUrl()}" class="navbar-brand"><img src="/images/nba-logo.png" alt="Home"></a>
+            <a href="${sri.buildUrl("/m/home").getUrl()}" class="navbar-brand"><p>Chua Project</p></a>
           </div>
         </div>
     </header>
     <div id="navbarContent" class="collapse navbar-collapse navbar-ex1-collapse">
         <div class="navbar-left">
-            <a class="leftNavBtns" class="" href="/">HOME</a>
+            <a class="leftNavBtns" href="/">HOME</a>
             <a class="leftNavBtns" href="standings">STANDINGS</a>
         </div>
         <#if ec.user.userId??>
