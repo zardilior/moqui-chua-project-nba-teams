@@ -20,3 +20,15 @@
   margin: 0 auto;
   max-width: 90%;
 }
+.notLoggedIn, #content .container-fluid {
+  text-align: center;
+}
+.notLoggedIn a {
+  font-size: 18px;
+}
+.team-info {
+  margin-top: 20px;
+}
+.img-responsive {
+    display: inline-block;
+}

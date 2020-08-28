@@ -29,7 +29,7 @@
                 <widgets>
                     <container>
                         <image
-                                style="img-responsive center-block"
+                                style="center-block"
                                 url="${photo.contentLocation}"
                                 url-type="plain"
                         />
