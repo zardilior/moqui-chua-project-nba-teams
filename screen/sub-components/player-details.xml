@@ -57,6 +57,7 @@
                 <row-col xs="0" sm="1" md="1" lg="2">
                 </row-col>
             </container-row>
+            <include-screen location="component://chua-project/screen/sub-components/player-details/rate-player-footer.xml"/>
         </container-dialog>
     </widgets>
 </screen>

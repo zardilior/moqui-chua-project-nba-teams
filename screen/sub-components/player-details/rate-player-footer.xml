@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen xmlns:xsi="http://www.w3.org/2001/xmlschema-instance"
+        xsi:nonamespaceschemalocation="http://moqui.org/xsd/xml-screen-2.1.xsd"
+        require-authentication="anonymous-all">
+    <parameter field="teamId" />
+
+    <transition name="ratePlayer">
+        <service-call
+                name="create#mantle.party.PartyReview"
+                in-map="[
+                    userId: ec.user.userId,
+                    partyId: teamId,
+                    partyRating: rating,
+                    postedDateTime: ec.user.nowTimestamp
+                ]"
+        />
+        <default-response url="." />
+    </transition>
+
+    <widgets>
+        <container style="navbar navbar-default navbar-fixed-bottom lead text-center footer">
+<!--            <label type="h4" text="Rate This Player"/>-->
+            <form-single style="block" name="player-details" transition="ratePlayer">
+                <field name="rating" style="inline">
+                    <default-field title="Rating">
+                        <drop-down allow-empty="false" combo-box="true">
+                            <list-options list="[1,2,3,4,5]"/>
+                        </drop-down>
+                    </default-field>
+                </field>
+                <field name="submitButton">
+                    <default-field title="Rate Player">
+                        <submit/>
+                    </default-field>
+                </field>
+            </form-single>
+        </container>
+    </widgets>
+</screen>
