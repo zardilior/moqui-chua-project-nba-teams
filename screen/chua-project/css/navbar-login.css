@@ -11,11 +11,13 @@ body.dev #top nav { border: none; box-shadow: 0 4px 2px -2px rgba(0,0,0,.2); }
 .leftNavBtns, .accountBtn { color: white; padding: 0px 15px; font-size: 16px; font-family: 'Poppins', sans-serif; }
 .leftNavBtns:hover, .accountBtn:hover { text-decoration: none; padding-bottom: 7.5px; border-bottom: 4px white solid; color: white; cursor: pointer; }
 .userIcon { margin-left: 3px; }
+.icon-bar { background-color: white; }
+.navbar-toggle { border: 2px solid white; }
 @media only screen and (max-width: 770px) { #brand p { display: none; } .centerNav { position: absolute; left: 5%; margin-left: 0 !important; } }
 
 /* Login/Registration Styling */
 
-.loginPage { margin-top: 15vh; }
+.Login { margin-top: 15vh; }
 #login_form, #change_form, #create_form, #reset_form { background-color: #ececec; border-radius: 10px; padding: 15px 25px; box-shadow: 5px 5px #eae2e2; width: 400px;}
 .loginHeading { margin-bottom: 35px; }
 #loginTitle { font-family: 'Calistoga', cursive; letter-spacing: 1px; color: #cf112b; margin-top: 15px;}
