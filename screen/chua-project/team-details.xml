@@ -11,6 +11,8 @@
     <transition-include name="resetPassword" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
     <transition-include name="createUser" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
     <transition-include name="login" location="component://chua-project/screen/chua-project/LoginForm.xml"/>
+    <!-- player details -->
+    <transition-include name="ratePlayer" location="component://chua-project/screen/sub-components/player-details/rate-player-footer.xml" />
     <actions>
       <set field="teamId" from="teamId" default-value="Atlanta Hawks" />
       <set field="partyId" from="teamId" default-value="Atlanta Hawks" />
