@@ -17,27 +17,15 @@
       ]"
     />
     <default-response url="." />
-    <!-- service call -->
   </transition>
   <widgets>
     <container style="text-center" >
-      <!--<label
-        type="h4" 
-        text="What would you like to comment about the team?"
-      />-->
       <form-single name="comment-form" transition="commentOn">
         <field name="teamId">
           <default-field>
             <hidden value="${teamId}"/>
           </default-field>
         </field>
-        <!--<field name="rating">
-          <default-field title="Rating">
-            <drop-down allow-empty="false" combo-box="true">
-              <list-options list="[1,2,3,4,5]"/>
-             </drop-down>
-          </default-field>
-        </field>-->
         <field name="comment">
           <default-field title="Comment">
             <text-area rows="3" cols="50"/>
